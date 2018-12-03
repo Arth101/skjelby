@@ -8,6 +8,8 @@ description: >-
 tags:
   - resume
 ---
+![Klaas](/img/klaas.jpeg)
+
 ## Fuldt Resume:
 
 Vores helte beslutter sig for at allierer sig med Klaas, for alvor denne gang, og vender tilbage til den forladte mine hvor Klaas og hans hær af lejesoldater holder til. 
