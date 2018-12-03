@@ -2,7 +2,9 @@
 templateKey: blog-post
 title: 'Session 02: Kaos i Mudderstredet'
 date: 2018-12-03T12:40:58.685Z
-description: 'Kamp i Mudderstrædet, Jasper Langkniv og heltenes eget bordel.'
+description: >-
+  Kamp bryder ud i Mudderstrædet, Jasper Langkniv nedkæmpes og heltene får deres
+  eget bordel.
 tags:
   - resume
 ---
