@@ -6,7 +6,7 @@ description: >-
   Nimbus og Glamo infiltrerer et skib, Valzana shopper og Balarin besøger på
   bordel.
 tags:
-  - Resume
+  - resume
 ---
 ## Fuldt Resume:
 
