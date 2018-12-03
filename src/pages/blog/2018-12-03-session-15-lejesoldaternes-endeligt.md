@@ -8,6 +8,8 @@ tags:
 ---
 **Intromelodi:** ["Age of the Dragon" af Miracle of Sound.](https://open.spotify.com/track/1wotytPfCINZC2236odOFH)
 
+![Lejesoldater](/img/bandit.jpeg)
+
 ## Fuldt Resume:
 
 Sidst vi mødtes overværgede vi vores helte bevæge sig igennem Wessas gader, mod Clarios kro, hvor de lejesoldater der bortførte Torben skulle befinde sig.
@@ -21,3 +23,5 @@ På vejen ud af byen passer heltene igennem den store lejr hvor Shahens hær er 
 Da lejesoldaterne ankommer for at handle, ser heltene at det virkelig er Torben som lejesoldaterne fragter, og  Balasar giver signal til at angribe, ganske simpelt ved at spyde sin lyn-ånde ud over en hel række af lejesoldater. Alle vores helte, inklusiv Kaptajn Zedaar og 2 af hans paladiner, går i kødet på lejesoldaterne og en regulær nedslagtning følger. Da det bliver åbenlyst at kampen er tabt forsøger de sidste lejesoldater af overgive sig, men hverken Nimbus eller Zedaar er særligt interesseret i at lade dem leve. Balasar og Borin forsølger at få Zedaar til at stoppe inden han brutalt hakker den sidste overlevende lejesoldat i stykker, og testestoronen pumpen mens de 2 dragonsborns står ansigt til ansigt. Med en hurtig og heldig magi får Borin afværget situationen, og udspørger lejesoldaten om deres planer mod øst. Lejesoldaten ved kun at de var på vej til deres arbejdsgiver i Afrin og bliver derefter overgivet til paladinerne som trasker tilbage imod Wessa.
 
 Heltene gennemsøger slagmarkens lig, og får fanget 6 af lejesoldaternes heste ind, inden de også selv drager hjem mod Wessa.
+
+![Zadaar vs Balasar](/img/zadaar-vs-balasar.jpg)
