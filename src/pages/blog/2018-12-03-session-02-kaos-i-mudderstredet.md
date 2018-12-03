@@ -8,6 +8,6 @@ description: >-
   et par tyve, og pludselig befinder sig i og omkring det skumle
   slyngeltilholdssted; Varehuset.
 tags:
-  - Resume
+  - resume
 ---
 Efter en blodig kamp, overmander vores helte banditterne i Varehuset, inklusive den berygtede Jasper Langkniv. Efter lidt forstærket afhøring (ie. tortur), tilstår Jasper at Klaas, som vore helte leder efter, befinder sig uden for byen og han måske ikke har helt rent mel i posen. På vej ud for at finde Klaass overværer vore helte nogle velkendte glædespigers henrettelse, og beslutter sig for at tage loven i egen hånd… og nu ejer de (måske) et bordel.
