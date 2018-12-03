@@ -8,6 +8,8 @@ description: >-
 tags:
   - resume
 ---
+
+
 ## Fuldt Resume:
 
 Vores helte befinder sig i ruinerne af Herremands hus, hvor de kommer sig efter opgøret med Klass. Imens Borin og Glamo er bevidstløse efter kampen, udnytter Nimbus og Torben tiden til at bryde ind i Herremandens kælder for at få så mange rigdomme med ud af byen så muligt.
@@ -19,3 +21,7 @@ Da Nimbus og Glamo vågner fra deres trance og finder Borin, døende i den mudre
 Lidt nord for smuglerbyen Mågstrup, stopper heltene deres båd og Nimbus iklæder sig sin nye magiske kappe for at spejde de skibe der er lagt til bugten efter tegn på Torben eller lejesoldaterne. Intet held har han i sin spejden, men en meget velkendt skonnert spottes, nemlig hans gamle skib Esmareldaen. Desværre bliver Nimbus set af vagter på Mågstrups sandbanker, og tyer til at fake en drukning, for at slippe ud af situationen. Hurtigt springer 2 nye helte til Nimbus hjælp, og slæber ham, lidt modvilligt fra hans side, op i en båd, hvor han sidder ansigt til ansigt med den 120 kg tunge Dragonborn Balasar, og den relativt uimponerede halv-elverinde Valzana. Med sin regulære snilde forklarer Nimbus om deres mission for at redde Torben, og Balasar tilbyder straks sin hjælp. 
 
 Det nye slæng får hurtigt sejlet sig ud til Esmareldaen og får klartgjort riggingen til at sejle efter lejesoldaterne så hurtigt nattens vind kan bære den stolte skonnert.
+
+![Cloak of the manta ray](/img/cloak-of-the-mantaray.jpg)
+
+![Esmareldaen](/img/esmareldaen.jpg)
