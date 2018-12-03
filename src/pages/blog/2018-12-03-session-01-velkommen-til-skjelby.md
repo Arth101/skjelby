@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 01: Velkommen til Skjelby'
-date: 2018-12-03T12:03:49.498Z
+date: 2018-12-02T12:03:49.498Z
 description: >-
   Vores helte, Lokalhistorikeren Borin, en dværg fra Erebor, Måneelver og sejler
   “Kaptajn” Nimbus og Skovboeren Glamo, møder hinanden i havnebyen Skjelby. Her
