@@ -6,7 +6,7 @@ description: >-
   Esmareldaen overlever en voldsom storm, ankommer i Wessa havn og Balasar
   bliver sendt til afhøring.
 tags:
-  - Resume
+  - resume
 ---
 ## Fuldt Resume:
 
