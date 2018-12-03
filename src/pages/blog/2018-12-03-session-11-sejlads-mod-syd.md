@@ -6,7 +6,7 @@ description: >-
   Heltene, nu forstærket med Balasa og Valzana, sejler mod syd, men bliver
   overfaldet af Dragonborn pirater på vejen.
 tags:
-  - Resume
+  - resume
 ---
 ## Fuldt Resume:
 
