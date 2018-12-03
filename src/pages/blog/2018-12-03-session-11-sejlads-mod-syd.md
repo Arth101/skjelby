@@ -8,6 +8,8 @@ description: >-
 tags:
   - resume
 ---
+**Intromelodi:** ["The 7 Seas" af Captain Dan & The Scurvy Crew](https://open.spotify.com/track/59xCUyHY9vabwyOyXRX7Cz).
+
 ## Fuldt Resume:
 
 Skjelbys Helte samt Balasar og Valzana sejler sydpå gennem natten for at hente ind på det fragtskib som Torben er fanget på (allegedly). Jagten går dog langsommere end forventet, og uger passere hvor Esmareldaen kun langsomt henter ind på fragtskibet.
