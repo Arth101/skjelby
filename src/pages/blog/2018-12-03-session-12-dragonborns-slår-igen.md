@@ -6,7 +6,7 @@ description: >-
   Heltene brænder piratskibet, møder Bronzedragen Kairozdormu og nedkæmper en
   endnu et angreb af de onde Dragonborn klaner.
 tags:
-  - Resume
+  - resume
 ---
 ## Fuldt Resume:
 
