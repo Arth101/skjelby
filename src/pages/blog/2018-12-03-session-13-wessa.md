@@ -17,3 +17,5 @@ Efter et par dages sejlen kan Esmareldaens besætning endelig se deres mål: Hav
 Resten af dagen bliver brugt på at handle diverse materialer ind, vente på at Glamo har sneget sig ud af fængslet igen samt at sidde i et lille rum og tænke over hvad Valzana mon laver lige nu (meta).
 
 Heltne mødes tilbage på Esmareldaen om aftenen, for at diskuterer hvad de næste dages mål er (hvor fuck er Torben!?).
+
+![Jones](/img/jones_full3.jpg)
