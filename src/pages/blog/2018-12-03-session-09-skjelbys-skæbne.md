@@ -8,6 +8,8 @@ description: >-
 tags:
   - resume
 ---
+**Intromelodi:** "[History Repeating Pt. 1" af The Megas](https://open.spotify.com/track/48hyQXGVSRFlh9dac8CzVE).
+
 ## Fuldt Resume:
 
 Vores helte står for døren af Herremandens hus, mens en mystisk magisk tåge kommer rullende ind over Skjelby klint.
