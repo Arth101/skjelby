@@ -8,6 +8,6 @@ description: >-
   der skylder penge til Jasper, og efter lidt tricks bliver Torben
   overtalt/tvunget til at arbejde sin gæld af for vores helte.
 tags:
-  - Resume
+  - resume
 ---
 Hos herremanden har gruppen midlertidigt ikke meget held, da den unge Jones ikke er særlig samarbejdsvillig. Sammen med Kaptajnen af Garden udtænker heltene en plan for at kunne overvinde Klaas, og beslutter at mens garden “renser ud” i mudderstredet, vil heltene passe på herremanden i løbet af natten.
