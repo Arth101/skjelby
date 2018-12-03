@@ -6,6 +6,8 @@ description: 'Lejesoldaterne lokaliseres, et overfald planlægges og Zedaar går
 tags:
   - resume
 ---
+**Intromelodi:** ["Age of the Dragon" af Miracle of Sound.](https://open.spotify.com/track/1wotytPfCINZC2236odOFH)
+
 ## Fuldt Resume:
 
 Sidst vi mødtes overværgede vi vores helte bevæge sig igennem Wessas gader, mod Clarios kro, hvor de lejesoldater der bortførte Torben skulle befinde sig.
