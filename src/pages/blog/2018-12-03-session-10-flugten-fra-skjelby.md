@@ -8,7 +8,7 @@ description: >-
   udnytter Nimbus og Torben tiden til at bryde ind i Herremandens kælder for at
   få så mange rigdomme med ud af byen så muligt.
 tags:
-  - Resume
+  - resume
 ---
 Da Glamo og Borin kommer til bevidsthed igen, går flugten ned af Skjelby Klint, med magisk spejl, kapper, våben, rustning, herremanden Jones - og selvfølgelig lommen fuld af guld. I ly af natten sejler Skjelbys helte væk fra havnebyen, til lyde af frustrerede lejesoldater, og driver med strømmen sydpå for at søge nye eventyr. De ligger til land og finder en hule i skoven, mens en stille regn siver ned, og Torben tager aftenens første vagt. Det vil vise sig at være en næsten fatal beslutning, for under en samtale mellem Toben og Borin, bliver de to helte omringet og overfaldet af lejesoldaterne som har fundet dem på deres egen vej sydpå. Kamp bryder ud og Torben falder efter at have slået for sig, og kort efter må Borin også bukker under for lejesoldaternes våben og vrede. Det sidste Borin ser inden han midster bevidstheden er Torben, der bliver slæbt væk mod syden, samt lejesoldaternes tidligere leder, som bliver dolket af sine egne forræderiske mænd.
 
