@@ -10,6 +10,8 @@ tags:
 ---
 **Intromelodi:** ["Dragon Rider" af Two Steps From Hell.](https://open.spotify.com/track/0G8iyOJFQ8Wvm4Fe6xjQdr)
 
+![Wessa](/img/wessa.jpg)
+
 ## Fuldt Resume:
 
 Vores helte navigerer den voldsomme storm, mens et par drager er i gang med at flå hinanden i stykker i horisonten. Heldigvis er Nimbus sejlkunst nok til at komme ud af stormen uden nogle store skader til hverken skib eller besætning, og kursen er stadig mod syd.
