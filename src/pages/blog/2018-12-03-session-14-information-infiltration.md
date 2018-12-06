@@ -8,6 +8,8 @@ description: >-
 tags:
   - resume
 ---
+**Intromelodi:** ["Dungeons & Dragons is Gay" af El Privates.](https://open.spotify.com/track/5hy4B1rDnkfouC7SgtEqQN)
+
 ## Fuldt Resume:
 
 I Wessa havn samler vores helte sig for at opklare deres mysteriet: Hvor er Torben? Første skridt er at infiltrere Fragtskibet Karen Sofie, som Torben og lejesoldaterne sejlede fra Mågstrup i.
