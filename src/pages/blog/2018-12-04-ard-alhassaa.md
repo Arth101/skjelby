@@ -9,3 +9,5 @@ tags:
   - al'hassaa
 ---
 ## Kort:
+
+![Ard A'Hassaa Map](/img/alhassaa-map.jpg)
