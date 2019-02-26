@@ -10,7 +10,7 @@ tags:
 ---
 **Intromelodi:** ["Dragon Rider" af Two Steps From Hell.](https://open.spotify.com/track/0G8iyOJFQ8Wvm4Fe6xjQdr)
 
-![Wessa](/img/wessa.jpg)
+![Wessa](/img/wessa-port.jpg)
 
 ## Fuldt Resume:
 
