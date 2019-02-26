@@ -10,7 +10,7 @@ Det kræver 100 (%) xp at stige til næste level. Mange ting giver xp, men som u
 * At overleve en kamp mod baddies.
 * Alt andet som DMen synes giver mening.
 
-[Nogle af tankerne bag dette xp system.](http://dnd.wizards.com/articles/unearthed-arcana/3pillarxp)
+[Nogle af tankerne bag dette xp system](http://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf).
 
 ### Level 7 progression:
 
