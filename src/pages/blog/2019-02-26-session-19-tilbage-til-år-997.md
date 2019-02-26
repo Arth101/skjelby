@@ -6,6 +6,8 @@ description: 'Tidsrejsende helte, Emiren af Serrisu og tilbagevenden til Templet
 tags:
   - resume
 ---
+![](/img/fire_giant.jpg)
+
 ## Fuldt Resume:
 
 Vores helte har sundet sig efter deres kamp mod Sphinxen og rejser tilbage mod Serrisu. Her finder de byen en del anderledes end de husker den, og efter at have snakket med nogle vagter erfarer de at sphinxen har sendt dem 2.5 år tilbage i tiden; til vinteren 997.
