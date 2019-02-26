@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Session 19 - Tilbage til år 997
+title: 'Session 19: Tilbage til år 997'
 date: 2019-02-26T09:04:38.703Z
 description: 'Tidsrejsende helte, Emiren af Serrisu og tilbagevenden til Templet.'
 tags:
