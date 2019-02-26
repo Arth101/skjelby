@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Session 18 - Opgøret med Sphinxen:'
+title: Session 18 - Opgøret med Sphinxen
 date: 2019-02-26T09:01:21.706Z
 description: 'Kamp på templets top, en tur i helvedet og Tiamat.'
 tags:
