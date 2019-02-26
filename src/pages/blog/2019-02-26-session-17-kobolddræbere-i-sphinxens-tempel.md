@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Session 17 - Kobolddræbere i Sphinxens tempel
+title: 'Session 17: Kobolddræbere i Sphinxens tempel'
 date: 2019-02-26T08:44:48.685Z
 description: 'Bevingede kobolds, det gemte tempel og en Sphinx. '
 tags:
