@@ -16,7 +16,7 @@ const Navbar = () => (
           Sessions
         </Link>
         <Link className="navbar-item" to="/about">
-          Om Kampagnen
+          Level progression
         </Link>
       </div>
       <div className="navbar-end">
