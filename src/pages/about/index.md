@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: 'Skjelby Kampagnen: Et D&D eventyr'
+title: Level progression
 ---
 Det kræver 100 (%) xp at stige til næste level. Mange ting giver xp, men som udgangspunkt:
 
