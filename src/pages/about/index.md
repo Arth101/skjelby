@@ -12,6 +12,15 @@ Det kræver 100 (%) xp at stige til næste level. Mange ting giver xp, men som u
 
 [Nogle af tankerne bag dette xp system](http://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf).
 
+### Level 8 progression:
+
+| Event                            | XP (%) |
+| -------------------------------- | ------ |
+| Overskydende fra lvl 7                  | 4      |
+| **I alt**                        | 4 |
+
+--------------------------------
+
 ### Level 7 progression:
 
 | Event                            | XP (%) |
@@ -25,4 +34,8 @@ Det kræver 100 (%) xp at stige til næste level. Mange ting giver xp, men som u
 | Informations indsamling          | 10     |
 | Glamoured Studded leather (rare) | 5      |
 | Åbnet tempeldøren                | 5      |
-| **I alt**                        | **69** |
+| Fire Giant Encounter                | 10      |
+| Fire Giant magic items (very rare) x 2    | 14     |
+| Ankom i Iskayah | 3 |
+| Indkøb af magic items x 3    | 8     |
+| **I alt**                        | 104 |
