@@ -6,6 +6,8 @@ description: 'Kampen mod Skrog, "crit eller bliv crittet" og Bashars Famøse Fun
 tags:
   - resume
 ---
+**Intromelodi:** ["Back In Time" af "Huey Lewis & The News".](https://open.spotify.com/track/5pfjoD5Qo4r1E5pSlJu0jM)
+
 ![Fire giant](/img/636252778143767005.jpeg)
 
 ## Fuldt resume:
