@@ -6,6 +6,8 @@ description: Et kort D&D eventyr for et level 4 kobold party.
 tags:
   - one-shot
 ---
+![kobolds](/img/kobolds.jpg)
+
 ## Baggrund:
 
 Dybt under den lille by Helmsfeldt, ligger den største dragehule verden har set. Dette ved Helmsfeldts indbygger dog ikke noget om, for selvom hulens grotter er vokset stødt i løbet af flere tusinde år, så sover denne gigantiske hules herskerinde trygt, mellem skatte og rigdomme fra hundredvis af faldne nationer, og tusinder af fortærede eventyrere. Denne ældgamle dragedronning, Aramanthelyaverixina, har, på trods af hendes utrolige magt, dog brug for at vedligeholde hendes enorme hule, og det kræver undersåtter!
@@ -24,6 +26,4 @@ Alene, mellem bjerge af guld og bunker af farlige magiske artefakter.
 
 Og hvad hvis… Hvad hvis de Blåskællede får fat i dem først?
 
-
-
-**_I er de bedste, klogeste og stærkeste blandt de Rødskællede, og må lede jeres stamme gennem denne krise._**
+_**I er de bedste, klogeste og stærkeste blandt de Rødskællede, og må lede jeres stamme gennem denne krise.**_
