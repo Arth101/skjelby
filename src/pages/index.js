@@ -19,11 +19,10 @@ export default class IndexPage extends React.Component {
               .map(({ node: post }) => (
                 <div
                   className="content"
-                  style={{ border: '1px solid #333', padding: '2em 4em' }}
                   key={post.id}
                 >
                   <p>
-                    <Link className="has-text-primary" to={post.fields.slug}>
+                    <Link className="has-text-primary is-size-5" to={post.fields.slug}>
                       {post.frontmatter.title}
                     </Link>
                     <span> &bull; </span>
