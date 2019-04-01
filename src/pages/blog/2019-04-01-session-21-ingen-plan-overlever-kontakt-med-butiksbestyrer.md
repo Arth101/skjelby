@@ -6,6 +6,8 @@ description: 'Heltene forsøger at "låne" ting, bliver overfaldt og bugbears.'
 tags:
   - resume
 ---
+**Intromelodi:** ["Power Rangers Dino Charge"](https://open.spotify.com/track/7GmlAIzyeG3OjQLB7BUkgz).
+
 ![bugbear](/img/bugbear.jpg)
 
 # Fuldt resume:
