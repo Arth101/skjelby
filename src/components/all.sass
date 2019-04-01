@@ -9,8 +9,19 @@ $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 
-.content
-  background-color: red
+table
+  border: solid 1px #DDEEEE
+  border-collapse: collapse
+  border-spacing: 0
+  th
+    background-color: #DDEFEF
+    border: solid 1px #DDEEEE
+    color: #336B6B
+    text-align: left
+  td
+    border: solid 1px #DDEEEE
+    color: #333
+    padding: 10px
 
 .content .taglist
   list-style: none
@@ -41,20 +52,5 @@ $body-color: #333
 
 .margin-top-0
   margin-top: 0 !important
-
-table
-  border: solid 1px #DDEEEE
-  border-collapse: collapse
-  border-spacing: 0
-  thead
-    background-color: #DDEFEF
-    border: solid 1px #DDEEEE
-    color: #336B6B
-    padding: 10px
-    text-align: left
-  td
-    border: solid 1px #DDEEEE
-    color: #333
-    padding: 10px
 
 @import "~bulma"
