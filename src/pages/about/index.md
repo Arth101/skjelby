@@ -24,6 +24,7 @@ Det kræver 100 (%) xp at stige til næste level. Mange ting giver xp, men som u
 | Ankom i Buzra                | 5      |
 | Erhvervet kort over kloakker | 2      |
 | **I alt**                    | 19     |
+{: .my-class }
 
 - - -
 
