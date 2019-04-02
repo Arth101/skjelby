@@ -2,34 +2,49 @@
 templateKey: about-page
 title: Level progression
 ---
-Det kræver 100 (%) xp at stige til næste level. Mange ting giver xp, men som udgangspunkt:
-
-* At opdage og udforske nye steder, fx gamle templer, dungeons, osv.
-* At finde magiske genstande.
-  * Uncommon: 2 XP, Rare: 4 XP, Very Rare: 7 XP, Legendary: 10 XP.
-* At færdiggører opgaver for NPCer nå generelle mål for holdet.
-* At overleve en kamp mod baddies.
-  * Let kamp: 5 XP, svær kamp: 10 XP, deadly kamp: 15 XP.
-* Alt andet som DMen synes giver mening.
-
-[Nogle af tankerne bag dette xp system](http://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf).
-
 ### Level 8 progression:
 
-| Event                        | XP (%) |
+| Event                        | XP |
 | ---------------------------- | ------ |
 | Overskydende fra lvl 7       | 4      |
 | Hobgoblin overfald           | 5      |
 | Kamp mod Hobgoblins (nat)    | 3      |
 | Ankom i Buzra                | 5      |
 | Erhvervet kort over kloakker | 2      |
-| **I alt**                    | 19     |
+| **Total**                    | **19**     |
 
 - - -
 
-### Level 7 progression:
+### XP System:
+Det kræver 100 (%) XP at stige til næste level. Mange ting giver XP, men som udgangspunkt:
 
-| Event                                  | XP (%) |
+* At opdage og udforske nye steder, fx gamle templer, dungeons, osv.
+* At finde magiske genstande.
+* At færdiggører opgaver for NPCer nå generelle mål for holdet.
+* At overleve en kamp mod baddies.
+* Alt andet som DMen synes giver mening.
+
+### Guidelines:
+##### Magic items:
+* Uncommon: 2 XP
+* Rare: 4 XP
+* Very Rare: 7 XP
+* Legendary: 10 XP
+
+##### Kamp:
+* Overlegen: 5 XP
+* Udfordrene: 10 XP
+* Deadly: 15 XP
+
+### Læs mere:
+[Unearthed Arcana: Three-Pillar	
+Experience](http://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf).
+
+## Tidligere levels:
+
+##### Level 7 progression:
+
+| Event                                  | XP |
 | -------------------------------------- | ------ |
 | Kobold Encouter                        | 5      |
 | Battle Gauntlet (uncommon)             | 2      |
@@ -44,4 +59,4 @@ Det kræver 100 (%) xp at stige til næste level. Mange ting giver xp, men som u
 | Fire Giant magic items (very rare) x 2 | 14     |
 | Ankom i Iskayah                        | 3      |
 | Indkøb af magic items x 3              | 8      |
-| **I alt**                              | 104    |
+| **Total**                              | 104    |
