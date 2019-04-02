@@ -16,14 +16,15 @@ Det kræver 100 (%) xp at stige til næste level. Mange ting giver xp, men som u
 
 ### Level 8 progression:
 
-| Event                        | XP (%) |
+| Event                        | XP (%) |{.red}
 | ---------------------------- | ------ |
 | Overskydende fra lvl 7       | 4      |
 | Hobgoblin overfald           | 5      |
 | Kamp mod Hobgoblins (nat)    | 3      |
 | Ankom i Buzra                | 5      |
 | Erhvervet kort over kloakker | 2      |
-| **I alt**                    | 19     |{: .my-class }
+| **I alt**                    | 19     |{.red}
+
 
 - - -
 
