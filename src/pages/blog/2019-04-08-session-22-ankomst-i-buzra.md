@@ -17,6 +17,6 @@ Glamo sniger sig afsted for at spejde hvad der sker, og ser 4 skikkelser som tal
 Næste dag ridder de videre mod Buzra, mens Nimbus “blødgøre” fangen, som efter 1.5 time, slæbt bag en hest, fortæller at han kommer fra Gobulus Khanatet i øst. Med denne viden likviderer Nimbus hobgoblinen og ridder videre som om intet var hændt.
 Midt på dagen ankommer heltene endelig til Buzra, en oase med grønne plantager i midten af stenørkenen.
 
-> "I møder en klædt i leopardskind"
+Her leder Nimbus efter byens mere skumle karakterer og får erhvervet sig et kort over byens kloaksystem. Balasar og Valzana tager til den rige del af byen, Yatassa distriktet, hvor de sælger en del af deres ædelsten og køber pænt lokalt tøj til den kommende fest. Desuden støder de ind i en teenage pige med horn og hale, på flugt fra 3 mænd.
 
-Her leder Nimbus efter byens mere skumle karakterer og får erhvervet sig et kort over byens kloaksystem. Balasar og Valzana tager til den rige del af byen, Yatassa distriktet, hvor de sælger en del af deres ædelsten og køber pænt lokalt tøj til den kommende fest. Desuden støder de ind i en teenage pige med horn og hale, på flugt fra 3 mænd, heriblandt en ældre mand med en vest af leopardskind…
+> "3 mænd kommer løbende imod dig. Den ene er høj, omkring 1.9 meter, og muskuløst bygget. Hans ansigt har en rødlig farve og fyldt med arvæv. Med ham er en mindre mand, med stort sort skæg og en ældre herre iført en vest af leopardskind..."
