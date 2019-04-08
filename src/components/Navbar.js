@@ -3,6 +3,16 @@ import { Link } from 'gatsby'
 import dndBeyondLogo from '../img/dnd-beyond--small.png'
 import logo from '../img/logo.png'
 
+state = {
+  isActive: false,
+}
+
+toggleNav = () => {
+  this.setState(prevState => ({
+    isActive: !prevState.isActive
+  }))
+}
+
 const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container">
