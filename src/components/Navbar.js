@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import dndBeyondLogo from '../img/dnd-beyond--small.png'
 import logo from '../img/logo.png'
 
-navOpen => console.log('woop')
+var navOpen = () => { console.log('woop') }
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
