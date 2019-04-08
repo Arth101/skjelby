@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import dndBeyondLogo from '../img/dnd-beyond--small.png'
 import logo from '../img/logo.png'
 
-this.state = {
+var state = {
   isActive: false
 }
 
