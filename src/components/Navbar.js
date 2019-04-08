@@ -3,11 +3,13 @@ import { Link } from 'gatsby'
 import dndBeyondLogo from '../img/dnd-beyond--small.png'
 import logo from '../img/logo.png'
 
+this.handleClick = this.handleClick.bind(this);
+
 var state = {
   isActive: false,
 }
 
-function handleClick() {
+handleClick() {
   this.setState(state => ({
     isActive: !state.isActive
   }));
