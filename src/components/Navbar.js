@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
+import dndBeyondLogo from '../img/dnd-beyond--small.png'
 import logo from '../img/logo.png'
 
 const Navbar = () => (
@@ -33,7 +33,7 @@ const Navbar = () => (
             rel="noopener noreferrer"
           >
             <span className="icon">
-              <img src={github} alt="Github" />
+              <img src={dndBeyondLogo} alt="dnd beyond" />
             </span>
           </a>
         </div>
