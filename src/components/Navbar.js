@@ -12,7 +12,7 @@ const Navbar = () => (
         <Link to="/" className="navbar-item" title="Logo">
           <img src={logo} alt="skjelby" style={{ width: '88px' }} />
         </Link>
-        <a role="button" class="navbar-burger burger" onClick={() => alert('click')} aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <a role="button" class="navbar-burger burger" onClick={navOpen} aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
