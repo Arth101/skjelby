@@ -3,7 +3,10 @@ import { Link } from 'gatsby'
 import dndBeyondLogo from '../img/dnd-beyond--small.png'
 import logo from '../img/logo.png'
 
-var navOpen = () => { console.log('woop') }
+var navOpen = () => {
+  console.log('woop')
+  document.querySelector('#navbarmenu').classList.toggle('is-active')
+}
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
@@ -18,7 +21,7 @@ const Navbar = () => (
           <span aria-hidden="true"></span>
         </a>
       </div>
-      <div id="navbarBasicExample" className="navbar-menu is-active">
+      <div id="navbarmenu" className="navbar-menu">
         <div className="navbar-start">
           <Link className="navbar-item" to="/tags/resume/">
             Sessions
