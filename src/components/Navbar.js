@@ -7,7 +7,7 @@ var state = {
   isActive: false,
 }
 
-var toggleNav = () => {
+function toggleNav() {
   this.setState(prevState => ({
     isActive: !prevState.isActive
   }))
