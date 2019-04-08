@@ -7,7 +7,7 @@ var state = {
   isActive: false,
 }
 
-handleClick() {
+function handleClick() {
   this.setState(state => ({
     isActive: !state.isActive
   }));
