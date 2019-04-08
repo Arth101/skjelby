@@ -3,9 +3,7 @@ import { Link } from 'gatsby'
 import dndBeyondLogo from '../img/dnd-beyond--small.png'
 import logo from '../img/logo.png'
 
-var state = {
-  isActive: false
-}
+navOpen => console.log('woop')
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
@@ -14,13 +12,13 @@ const Navbar = () => (
         <Link to="/" className="navbar-item" title="Logo">
           <img src={logo} alt="skjelby" style={{ width: '88px' }} />
         </Link>
-        <a role="button" class="navbar-burger burger" onClick={this.setState({isActive: !state.isActive})} aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <a role="button" class="navbar-burger burger" onClick={this.navOpen} aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
         </a>
       </div>
-      <div id="navbarBasicExample" className={ this.state.isActive ? 'navbar-menu is-active' : 'navbar-menu'}>
+      <div id="navbarBasicExample" className="navbar-menu is-active">
         <div className="navbar-start">
           <Link className="navbar-item" to="/tags/resume/">
             Sessions
