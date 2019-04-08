@@ -7,10 +7,10 @@ var state = {
   isActive: false,
 }
 
-function toggleNav() {
-  this.setState(prevState => ({
-    isActive: !prevState.isActive
-  }))
+handleClick() {
+  this.setState(state => ({
+    isActive: !state.isActive
+  }));
 }
 
 const Navbar = () => (
@@ -20,7 +20,7 @@ const Navbar = () => (
         <Link to="/" className="navbar-item" title="Logo">
           <img src={logo} alt="skjelby" style={{ width: '88px' }} />
         </Link>
-        <a role="button" class="navbar-burger burger" onClick={this.toggleNav} aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <a role="button" class="navbar-burger burger" onClick={this.handleClick} aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
