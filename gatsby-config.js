@@ -68,7 +68,7 @@ module.exports = {
       // must be after other CSS plugins
       resolve: 'gatsby-plugin-purgecss',
       options: {
-        whitelist: ['table', 'th', 'td']
+        whitelist: ['table', 'th', 'td', 'blockquote']
       }
     },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
