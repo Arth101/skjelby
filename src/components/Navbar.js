@@ -6,8 +6,8 @@ import logo from '../img/logo.png'
 constructor(props) {
   super(props);
   this.state = {
-    isActive: false,
-  };
+    isActive: false
+  }
 }
 
 const Navbar = () => (
@@ -17,7 +17,7 @@ const Navbar = () => (
         <Link to="/" className="navbar-item" title="Logo">
           <img src={logo} alt="skjelby" style={{ width: '88px' }} />
         </Link>
-        <a role="button" class="navbar-burger burger" onClick={this.setState({isActive: !state.isActive}} aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <a role="button" class="navbar-burger burger" onClick={this.setState({isActive: !state.isActive})} aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
