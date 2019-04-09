@@ -36,7 +36,7 @@ export const BlogPostTemplate = ({
                       <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                     </span>
                   ))}
-                </ul>
+                </div>
               </div>
             ) : null}
           </div>
