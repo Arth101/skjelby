@@ -11,7 +11,8 @@ title: Level progression
 | Kamp mod Hobgoblins (nat)    | 3      |
 | Ankom i Buzra                | 5      |
 | Erhvervet kort over kloakker | 2      |
-| **Total**                    | **19**     |
+| Taget i spa og samlet information | 5      |
+| **Total**                    | **24**     |
 
 - - -
 
