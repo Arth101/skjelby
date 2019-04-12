@@ -25,7 +25,7 @@ class TagRoute extends React.Component {
         <section className="hero is-primary">
           <div className="hero-body">
             <div className="container">
-              <p className="title">{tag}</p>
+              <p className="title is-capitalized">{tag}</p>
             </div>
           </div>
         </section>
