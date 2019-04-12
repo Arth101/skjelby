@@ -11,7 +11,7 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <section class="hero is-primary is-bold">
-          <div className="hero-body">
+          <div className="hero-body hero-frontpage">
             <div className="container">
               <p className="title">
                 Dungeons &amp; Dragons
