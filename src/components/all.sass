@@ -63,11 +63,13 @@ $body-size: 18px
   
 .hero-frontpage
   position: relative
-  background-image: url(https://media-waterdeep.cursecdn.com/attachments/0/838/c3-09.png)
   background-image: url("../img/owlbear.webp")
   background-size: cover
   background-position: right 38%
   background-repeat: no-repeat
+  
+  @media(min-width: 768px)
+    background-size: 600px
   
   &:before
     content: ''
