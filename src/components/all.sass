@@ -60,3 +60,22 @@ $body-size: 18px
     border-left: none
     font-style: italic
     font-size: 24px
+  
+.hero-frontpage
+  position: relative;
+  background-image: url(https://media-waterdeep.cursecdn.com/attachments/0/838/c3-09.png);
+  background-size: cover;
+  background-position: right 38%;
+  background-repeat: no-repeat;
+  
+  &:before
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(to bottom right,#000000,#dc4225);
+    opacity: .6;
+    height: 100%;
+    width: 100%;
