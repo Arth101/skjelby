@@ -11,8 +11,10 @@ title: Level progression
 | Kamp mod Hobgoblins (nat)    | 3      |
 | Ankom i Buzra                | 5      |
 | Erhvervet kort over kloakker | 2      |
-| Taget i spa og samlet information | 5      |
-| **Total**                    | **24**     |
+| Information omkring Nat'Raeth | 2      |
+| Kamp mod Ropers | 10      |
+| Udforsket grotter under Buzra | 7      |
+| **Total**                    | **43**     |
 
 - - -
 
