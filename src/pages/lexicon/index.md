@@ -52,7 +52,7 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Ammar Al'Afrin, Emir af Afrin**
 
-## Ammars folk:
+## Ammars folk
 
 **Rukshana, Præstinde af Bahamut**
 
@@ -63,3 +63,9 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 **Hassan, veteran**
 
 **Ziraj, halv-ork tracker**
+
+## **Fjender**
+
+**Thauglorimogorgorus (Thau-glori-mo-gor-gorus), Sort drage**
+
+**Gobulus Khan, Hobgoblin Khan af Gobulus Khanatet**
