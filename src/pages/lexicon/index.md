@@ -78,7 +78,7 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Ismael Al-Wessari, Kaptajn i Bronze legionen**
 
-**Ammar Al-Afrin, Emir af Afrin**
+**Ammar Al-Afrin, Emir af Afrin og Amid af Jern legionens 2. regiment**
 
 ****
 
