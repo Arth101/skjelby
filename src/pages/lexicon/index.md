@@ -26,7 +26,7 @@ Gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben.
 
 # Persongalleri:
 
-## **Shahfamilien**
+## Shahfamilien
 
 **Aaliyah, Shahana (prisesse)**
 
@@ -48,7 +48,9 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Samdralyrion (Sam-draly-rion), Messing drage, Emir af Buzra Baz Hariz**
 
-## **Aristokrater**
+****
+
+## Aristokrater
 
 **Arjhan Ibeig Al-Serrisu, Emir af Serissu**
 
@@ -66,7 +68,7 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 ****
 
-## **Militær**
+## Militær
 
 **Zedaar, Kaptajn Kommandør af Balatin Dragonerne i Wessa**
 
@@ -74,7 +76,9 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Severin Stålhjerte, Amid (brigade general) i Sølv legionen**
 
-**Ammar Al'Afrin, Emir af Afrin**
+**Ismael Al-Wessari, Kaptajn i Bronze legionen**
+
+**Ammar Al-Afrin, Emir af Afrin**
 
 ****
 
@@ -92,12 +96,12 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 
 
-## **Fjender**
+## Fjender
 
 **Adragosa (A-dra-gosa), Blå drage**
 
 **\[Død] Surragos (Su-ra-gos), ung blå drage**
 
-**Thauglorimogorgorus (Thau-glori-mo-gor-gorus), Sort drage**
+**\[Død] Thauglorimogorgorus (Thau-glori-mo-gor-gorus), Sort drage**
 
 **Gobulus Khan, Hobgoblin Khan af Gobulus Khanatet**
