@@ -6,25 +6,15 @@ title: Leksikon
 
 # Spillere:
 
-**Balasar:**
+**Balasar**, 100% vengeful good dragonborn paladin med et (meget) stort sværd.
 
-100% vengeful good dragonborn paladin med et stort sværd.
+**Borin Runesøger**, gammel dværg med lav AC men mange cantrips.
 
-**Borin Runesøger:**
+**Kaptajn Nimbus**, måneelver slyngel, og ikke den helt Skjelby havde brug for, men den de fortjente.
 
-Gammel dværg med lav AC men mange cantrips.
+**Glamo Bænkesnitter**, en stille Skovelver med voldlige tendenser og et godt sigte.
 
-**Kaptajn Nimbus:**
-
-Måneelver slyngel, og ikke den helt Skjelby havde brug for, men den de fortjente.
-
-**Glamo Bænkesnitter:**
-
-En stille Skovelver med tedens til voldlig opførsel.
-
-**Valzana:**
-
-Gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben.
+**Valzana**, gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben.
 
 # Persongalleri:
 
@@ -50,8 +40,6 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Samdralyrion (Sam-draly-rion), Messing drage, Emir af Buzra Baz Hariz**
 
-- - -
-
 ## Aristokrater
 
 **Arjhan Ibeig Al-Serrisu, Emir af Serissu**
@@ -67,8 +55,6 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 **Osman Al-Din Baz Hariz, Sheik i Buzra og Rigmandssøn**
 
 **\[Død] Farouk Al-Aulaqi**
-
-- - -
 
 ## Militær
 
