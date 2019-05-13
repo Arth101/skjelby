@@ -50,4 +50,16 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Severin Stålhjerte, Amid (brigade general) i Sølv legionen**
 
-****
+**Ammar Al'Afrin, Emir af Afrin**
+
+## Ammars folk:
+
+**Rukshana, Præstinde af Bahamut**
+
+**Maleek**
+
+**Hamza**
+
+**Hassan**
+
+**Ziraj, halv-ork tracker**
