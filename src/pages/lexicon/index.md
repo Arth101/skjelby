@@ -56,10 +56,10 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Rukshana, Præstinde af Bahamut**
 
-**Maleek**
+**Maleek, veteran**
 
-**Hamza**
+**Hamza, veteran**
 
-**Hassan**
+**Hassan, veteran**
 
 **Ziraj, halv-ork tracker**
