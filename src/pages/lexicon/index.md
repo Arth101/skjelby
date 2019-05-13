@@ -26,6 +26,8 @@ Gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben.
 
 # Persongalleri:
 
+## **Shahfamilien**
+
 **Aaliyah, Shahana (prisesse)**
 
 Hassaarisk kvinde, start 30’erne, 1.7m høj. Mørkt hør, gylden/mørk hud, gyldne øjne, adskillige ar i ansigtet blandt andet over mund og på kinderne. Aaliyah leder Bronze legionen i år 999.
@@ -33,6 +35,8 @@ Hassaarisk kvinde, start 30’erne, 1.7m høj. Mørkt hør, gylden/mørk hud, gy
 **Mithbarakaz (Mith-bara-kaz), Shahazad (Drageprinsen)**
 
 Sølv Half-dragon. 2.1m høj. Tager ledelsen af sølvlegionen omkring 997. Bærer platiniumbelagt metal rustning med armene bare, og skulderplader formet som vinger som strækker sig op mod himlen.
+
+## Metalliske Drager
 
 **Kairozdormu (Kai-roz-dormu), Bronze drage**
 
@@ -44,6 +48,26 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Samdralyrion (Sam-draly-rion), Messing drage, Emir af Buzra Baz Hariz**
 
+## **Aristokrater**
+
+**Arjhan Ibeig Al-Serrisu, Emir af Serissu**
+
+**Korrin Ibeig, Emirkah (partner til emir) af Serrisu**
+
+**Hirrathak Ildrix, Højestepræst af Bahamut**
+
+**Melissa Al-Afrin, Emirkah af Afrin**
+
+**Murrat Ebid Al-Issaria, Sheikh i Ad-Issa**
+
+**Osman Al-Din Baz Hariz, Sheik i Buzra og Rigmandssøn**
+
+**\[Død] Farouk Al-Aulaqi**
+
+****
+
+## **Militær**
+
 **Zedaar, Kaptajn Kommandør af Balatin Dragonerne i Wessa**
 
 **Akra, Paladin i Balatin dragonerne**
@@ -52,7 +76,7 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Ammar Al'Afrin, Emir af Afrin**
 
-**\[Død] Farouk Al-Aulaqi**
+****
 
 ## Ammars folk
 
@@ -65,6 +89,8 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 **Hassan, veteran**
 
 **Ziraj, halv-ork tracker**
+
+
 
 ## **Fjender**
 
