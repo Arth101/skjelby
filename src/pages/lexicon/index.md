@@ -52,6 +52,8 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Ammar Al'Afrin, Emir af Afrin**
 
+**\[Død] Farouk Al-Aulaqi**
+
 ## Ammars folk
 
 **Rukshana, Præstinde af Bahamut**
@@ -65,6 +67,10 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 **Ziraj, halv-ork tracker**
 
 ## **Fjender**
+
+**Adragosa (A-dra-gosa), Blå drage**
+
+**\[Død] Surragos (Su-ra-gos), ung blå drage**
 
 **Thauglorimogorgorus (Thau-glori-mo-gor-gorus), Sort drage**
 
