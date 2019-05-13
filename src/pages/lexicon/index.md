@@ -2,7 +2,7 @@
 templateKey: about-page
 title: Leksikon
 ---
-## Spillere:
+# Spillere:
 
 **Balasar:**
 
@@ -32,4 +32,24 @@ En stille Skovelver med tedens til voldlig opførsel.
 
 Gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben.
 
-## Persongalleri:
+# Persongalleri:
+
+**Aaliyah, Shahana (prisesse)**
+
+Hassaarisk kvinde, start 30’erne, 1.7m høj. Mørkt hør, gylden/mørk hud, gyldne øjne, adskillige ar i ansigtet blandt andet over mund og på kinderne. Aaliyah leder Bronze legionen i år 999.
+
+**Mithbarakaz (Mith-bara-kaz), Shahazad (Drageprinsen)**
+
+Sølv Half-dragon. 2.1m høj. Tager ledelsen af sølvlegionen omkring 997. Bærer platiniumbelagt metal rustning med armene bare, og skulderplader formet som vinger som strækker sig op mod himlen.
+
+**Kairozdormu (Kai-roz-dormu), Bronze drage**
+
+Heltene mødte ham under deres sejlads mod Wessa. Han er dragen tilknyttet bronzelegionen. I 997 førte han en lille del af legionen mod Thauglorimogorgorus, og blev voldsomt såret, men reddede resten af Shahdømmets styrker, blandt andet Ammars regiment.
+
+**Saphithrix (Saph-i-thrix), Sølv drage**
+
+Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
+
+**Samdralyrion (Sam-draly-rion), Messing drage, Emir af Buzra Baz Hariz**
+
+****
