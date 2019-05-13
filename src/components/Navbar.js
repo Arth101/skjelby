@@ -29,6 +29,9 @@ const Navbar = () => (
           <Link className="navbar-item" to="/about">
             Level progression
           </Link>
+          <Link className="navbar-item" to="/lexicon">
+            Leksikon
+          </Link>
         </div>
         <div className="navbar-end">
           <a
