@@ -2,6 +2,8 @@
 templateKey: about-page
 title: Leksikon
 ---
+![leksikon billede](/img/lexicon.jpg)
+
 # Spillere:
 
 **Balasar:**
@@ -48,7 +50,7 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Samdralyrion (Sam-draly-rion), Messing drage, Emir af Buzra Baz Hariz**
 
-****
+- - -
 
 ## Aristokrater
 
@@ -66,7 +68,7 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **\[Død] Farouk Al-Aulaqi**
 
-****
+- - -
 
 ## Militær
 
@@ -92,11 +94,13 @@ Tiefling, slut 20'erne. Blå hud og lyst hår.
 
 **Sekata**
 
-Tiefling, ca. 15 år. Mørkegrå hud og mørk bølget hår. Datter af Rukshana.
+Tiefling, ca. 15 år. Mørkegrå hud og mørk bølget hår.
+ Datter af Rukshana.
 
 **Maleek, veteran**
 
-Ung mand, stor og muskuløs. Mørkt hår i en hestehale. Kæmper med en økse og et skjold med pigge.
+Ung mand, stor og muskuløs. Mørkt hår i en hestehale.
+ Kæmper med en økse og et skjold med pigge.
 
 **Hamza, veteran**
 
@@ -107,8 +111,6 @@ Ung halv-elver mand, Muskuløs. Skallet og brændsår over hele hovedet. Fik spr
 Ung mand. stort sort skæg, og altid en stor glaive ved sin side.
 
 **Ziraj, halv-ork tracker**
-
-
 
 ## Fjender
 
