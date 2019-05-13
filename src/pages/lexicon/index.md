@@ -78,19 +78,33 @@ Drage tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Ismael Al-Wessari, Kaptajn i Bronze legionen**
 
+Ung mand. Skallet i år 999, men længere mørkt hår i 997. Har et langt cerimonielt ar ned over ansigtet formet som et 'S'. Tidligere gladiator i Wessa, men fungerede som livvagt for Shahana Aaliyah i 997.
+
 **Ammar Al-Afrin, Emir af Afrin og Amid af Jern legionens 2. regiment**
 
-****
+Mand, start 30'erne. Solbrændt brun hud, skulderlagt mørkt bølget hår, brune øjne. Adræt af bygning og livslang kavalarist. Blev forfremmet til Amid efter sin heroiske indsats mod den sorte drage Thauglor i 996. Ansvarlig for forsvaret af Østfronten, og rekrutterin, træning og vedligehold af den Jern legionens 2. regiment.
 
 ## Ammars folk
 
 **Rukshana, Præstinde af Bahamut**
 
+Tiefling, slut 20'erne. Blå hud og lyst hår.
+
+**Sekata**
+
+Tiefling, ca. 15 år. Mørkegrå hud og mørk bølget hår. Datter af Rukshana.
+
 **Maleek, veteran**
+
+Ung mand, stor og muskuløs. Mørkt hår i en hestehale. Kæmper med en økse og et skjold med pigge.
 
 **Hamza, veteran**
 
+Ung halv-elver mand, Muskuløs. Skallet og brændsår over hele hovedet. Fik sprøjtet syrer ud over sig under kampen mod den sorte drage Thauglor.
+
 **Hassan, veteran**
+
+Ung mand. stort sort skæg, og altid en stor glaive ved sin side.
 
 **Ziraj, halv-ork tracker**
 
