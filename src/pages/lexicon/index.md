@@ -20,15 +20,15 @@ title: Leksikon
 
 ## Shahfamilien
 
-**Aaliyah, Shahana (prisesse). **Hassaarisk kvinde, start 30’erne, 1.7m høj. Mørkt hør, gylden/mørk hud, gyldne øjne, adskillige ar i ansigtet blandt andet over mund og på kinderne. Aaliyah leder Bronze legionen i år 999.
+**Aaliyah, Shahana (prisesse)**. Hassaarisk kvinde, start 30’erne, 1.7m høj. Mørkt hør, gylden/mørk hud, gyldne øjne, adskillige ar i ansigtet blandt andet over mund og på kinderne. Aaliyah leder Bronze legionen i år 999.
 
-**Mithbarakaz (Mith-bara-kaz), Shahazad (Drageprinsen). **Sølv Half-dragon. 2.1m høj. Tager ledelsen af sølvlegionen omkring 997. Bærer platiniumbelagt metal rustning med armene bare, og skulderplader formet som vinger som strækker sig op mod himlen.
+**Mithbarakaz (Mith-bara-kaz), Shahazad (Drageprinsen)**. Sølv Half-dragon. 2.1m høj. Tager ledelsen af sølvlegionen omkring 997. Bærer platiniumbelagt metal rustning med armene bare, og skulderplader formet som vinger som strækker sig op mod himlen.
 
 ## Metalliske Drager
 
-**Kairozdormu (Kai-roz-dormu), Bronze drage. **Tilknyttet bronzelegionen. Heltene mødte ham første gang under deres sejlads mod Wessa, og senere i hæren på vej mod Buzra for at konfronterer den rebelske Emir Ammar. I 997 førte han en lille del af legionen mod Thauglorimogorgorus, og blev voldsomt såret, men reddede resten af Shahdømmets styrker, blandt andet Ammars regiment.
+**Kairozdormu (Kai-roz-dormu), Bronze drage**. Tilknyttet bronzelegionen. Heltene mødte ham første gang under deres sejlads mod Wessa, og senere i hæren på vej mod Buzra for at konfronterer den rebelske Emir Ammar. I 997 førte han en lille del af legionen mod Thauglorimogorgorus, og blev voldsomt såret, men reddede resten af Shahdømmets styrker, blandt andet Ammars regiment.
 
-**Saphithrix (Saph-i-thrix), Sølv drage. **Tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
+**Saphithrix (Saph-i-thrix), Sølv drage**. Tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
 **Samdralyrion (Sam-draly-rion), Messing drage, Emir af Buzra Baz Hariz**
 
