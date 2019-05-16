@@ -30,6 +30,9 @@ const Navbar = () => (
             Level progression
           </Link>
           <Link className="navbar-item" to="/lexicon">
+            <span className="icon is-small">
+              <i className="fas fa-book" ariaHidden="true"></i>
+            </span>
             Leksikon
           </Link>
         </div>
