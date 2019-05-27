@@ -14,14 +14,14 @@ title: Leksikon
 
 **Glamo Bænkesnitter**, en stille Skovelver med voldlige tendenser og et godt sigte.
 
-**Valzana**, gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben.
+[Død] **Valzana**, gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben. Faldt i kamp under drow angrebet på Afrin i 997. Hvil i fred du hemmelighedsfulde fløjtespiller.
 
 # Persongalleri:
 
 ## Shahfamilien
 
 **Aaliyah, Shahana (prisesse)**.
-Hassaarisk kvinde, start 30’erne, 1.7m høj. Mørkt hør, gylden/mørk hud, gyldne øjne, adskillige ar i ansigtet blandt andet over mund og på kinderne. Aaliyah leder Bronze legionen i år 999.
+Hassaarisk kvinde, start 30’erne, 1.7m høj. Mørkt hør, gylden/mørk hud, gyldne øjne, adskillige ar i ansigtet blandt andet over mund og på kinderne. Aaliyah leder Bronze legionen i år 999. I 997 tog Aaliyah med Ammar og hans folk til Afrin for at 
 
 **Mithbarakaz (Mith-bara-kaz), Shahazad (Drageprinsen)**.
 Sølv Half-dragon. 2.1m høj. Tager ledelsen af sølvlegionen omkring 997. Bærer platiniumbelagt metal rustning med armene bare, og skulderplader formet som vinger som strækker sig op mod himlen.
@@ -43,7 +43,11 @@ Tilknyttet bronzelegionen. Heltene mødte ham første gang under deres sejlads m
 
 **Hirrathak Ildrix, Højestepræst af Bahamut**
 
-**Melissa Al-Afrin, Emirkah af Afrin**
+**Marduk Al-Afrin, Emir af Afrin**.
+Ung mand, start 20'erne. Blev domineret af drow-elverne under drow angrebet på Afrin i 997.
+
+**Melissa Al-Afrin, tidligere Emirkah af Afrin**.
+Moder til Emir Marduk af Afrin (997).
 
 **Murrat Ebid Al-Issaria, Sheikh i Ad-Issa**
 
@@ -63,16 +67,16 @@ Tilknyttet bronzelegionen. Heltene mødte ham første gang under deres sejlads m
 Ung mand. Skallet i år 999, men længere mørkt hår i 997. Har et langt cerimonielt ar ned over ansigtet formet som et 'S'. Tidligere gladiator i Wessa, men fungerede som livvagt for Shahana Aaliyah i 997.
 
 **Ammar Al-Afrin, Emir af Afrin og Amid af Jern legionens 2. regiment**.
-Mand, start 30'erne. Solbrændt brun hud, skulderlagt mørkt bølget hår, brune øjne. Adræt af bygning og livslang kavalarist. Blev forfremmet til Amid efter sin heroiske indsats mod den sorte drage Thauglor i 996. Ansvarlig for forsvaret af Østfronten, og rekrutterin, træning og vedligehold af den Jern legionens 2. regiment.
+Mand, start 30'erne. Solbrændt brun hud, skulderlagt mørkt bølget hår, brune øjne. Adræt af bygning og livslang kavalarist. Blev forfremmet til Amid efter sin heroiske indsats mod den sorte drage Thauglor i 996. Ansvarlig for forsvaret af Østfronten, og rekrutterin, træning og vedligehold af den Jern legionens 2. regiment. Han voksede op i Ain'Issa.
 
 ## Ammars folk
 
 **Rukshana, Præstinde af Bahamut**.
-Tiefling, slut 20'erne. Blå hud og lyst hår.
+Tiefling, slut 20'erne. Blå hud og lyst hår. Vokset op i et tempel i byen Ain-Issa, hvor hun mødte Ammar. Senere tilsluttede hun sig hans gruppe og rejste med ham rundt i Ard Al'Hassaa.
 
 **Sekata**.
-Tiefling, ca. 15 år. Mørkegrå hud og mørk bølget hår.
- Datter af Rukshana.
+Tiefling, 15 år (i 997). Mørkegrå hud og mørk bølget hår.
+Datter af Rukshana.
 
 **Maleek, veteran**.
 Ung mand, stor og muskuløs. Mørkt hår i en hestehale.
