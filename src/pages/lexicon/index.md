@@ -33,15 +33,18 @@ Tilknyttet bronzelegionen. Heltene mødte ham første gang under deres sejlads m
 
 **Saphithrix (Saph-i-thrix), Sølv drage**. Tilknyttet Sølv legionen. Var tilstede under festen i Buzra i 997.
 
-**Samdralyrion (Sam-draly-rion), Messing drage, Emir af Buzra Baz Hariz**
+**Samdralyrion (Sam-draly-rion), Messing drage, Emir af Buzra Baz Hariz**.
 
 ## Aristokrater
 
-**Arjhan Ibeig Al-Serrisu, Emir af Serissu**
+**Arjhan Ibeig Al-Serrisu, Emir af Serissu**.
+Dragonborn mand, bronze-skæl. Høj, en smule overvægtig. Nyligt indsat Emir, som havde store problemer med at få bygget sit palads færdig. I 997 mødte heltene ham i Serrisu og stjal hans invitation til Samdralyrions fest i Buzra.
 
-**Korrin Ibeig, Emirkah (partner til emir) af Serrisu**
+**Korrin Ibeig, Emirkah (partner til emir) af Serrisu**.
+Arjhans kone.
 
-**Hirrathak Ildrix, Højestepræst af Bahamut**
+**Hirrathak Ildrix, Højestepræst af Bahamut**.
+Dragonborn mand, Gyldne skæl. I 997 så heltene ham brænde en forbryder til døde i Buzra.
 
 **Marduk Al-Afrin, Emir af Afrin**.
 Ung mand, start 20'erne. Blev domineret af drow-elverne under drow angrebet på Afrin i 997.
@@ -49,19 +52,20 @@ Ung mand, start 20'erne. Blev domineret af drow-elverne under drow angrebet på 
 **Melissa Al-Afrin, tidligere Emirkah af Afrin**.
 Moder til Emir Marduk af Afrin (997).
 
-**Murrat Ebid Al-Issaria, Sheikh i Ad-Issa**
+**Murrat Ebid Al-Issaria, Sheikh i Ad-Issa**.
 
-**Osman Al-Din Baz Hariz, Sheik i Buzra og Rigmandssøn**
+**Osman Al-Din Baz Hariz, Sheik i Buzra og Rigmandssøn**.
 
-**\[Død] Farouk Al-Aulaqi**
+**\[Død] Farouk Al-Aulaqi**.
+Ung mand, skjald. Han var blevet fanget af den blå drage Surragos, og tvunget til at underholde dragen med musik og digte. Heltene tog ham som fange efter at have overvundet dragen, og han døde på mystisk vis omkring Sphinxens tempel.
 
 ## Militær
 
-**Zedaar, Kaptajn Kommandør af Balatin Dragonerne i Wessa**
+**Zedaar, Kaptajn Kommandør af Balatin Dragonerne i Wessa**.
 
-**Akra, Paladin i Balatin dragonerne**
+**Akra, Paladin i Balatin dragonerne**.
 
-**Severin Stålhjerte, Amid (brigade general) i Sølv legionen**
+**Severin Stålhjerte, Amid (brigade general) i Sølv legionen**.
 
 **Ismael Al-Wessari, Kaptajn i Bronze legionen**.
 Ung mand. Skallet i år 999, men længere mørkt hår i 997. Har et langt cerimonielt ar ned over ansigtet formet som et 'S'. Tidligere gladiator i Wessa, men fungerede som livvagt for Shahana Aaliyah i 997.
@@ -78,9 +82,11 @@ Tiefling, slut 20'erne. Blå hud og lyst hår. Vokset op i et tempel i byen Ain-
 Tiefling, 15 år (i 997). Mørkegrå hud og mørk bølget hår.
 Datter af Rukshana.
 
+**Tahan Baz Wasseem**.
+Ældre mand, mørkt kort hår med begyndende måne. I 999 var han i Skjelby med en gruppe lejesoldater for at assisterer Klaas med at overtage magten i byen. Han benyttede sig af mørk magi fra en magisk bog, som Nimbus senere overtog. Tahan blev slået ihjel af heltene og Klaas i Herremandens palæ. I 997 var han vismand og rådgiver i Afrin, og var med Ammar til Buzra og tilbage.
+
 **Maleek, veteran**.
-Ung mand, stor og muskuløs. Mørkt hår i en hestehale.
- Kæmper med en økse og et skjold med pigge.
+Ung mand, stor og muskuløs. Mørkt hår i en hestehale. Kæmper med en økse og et skjold med pigge.
 
 **Hamza, veteran**.
 Ung halv-elver mand, Muskuløs. Skallet og brændsår over hele hovedet. Fik sprøjtet syrer ud over sig under kampen mod den sorte drage Thauglor.
@@ -88,14 +94,14 @@ Ung halv-elver mand, Muskuløs. Skallet og brændsår over hele hovedet. Fik spr
 **Hassan, veteran**.
 Ung mand. stort sort skæg, og altid en stor glaive ved sin side.
 
-**Ziraj, halv-ork tracker**
+**Ziraj, halv-ork tracker**.
 
 ## Fjender
 
-**Adragosa (A-dra-gosa), Blå drage**
+**Adragosa (A-dra-gosa), Blå drage**.
 
-**\[Død] Surragos (Su-ra-gos), ung blå drage**
+**\[Død] Surragos (Su-ra-gos), ung blå drage**.
 
-**\[Død] Thauglorimogorgorus (Thau-glori-mo-gor-gorus), Sort drage**
+**\[Død] Thauglorimogorgorus (Thau-glori-mo-gor-gorus), Sort drage**.
 
-**Gobulus Khan, Hobgoblin Khan af Gobulus Khanatet**
+**Gobulus Khan, Hobgoblin Khan af Gobulus Khanatet**.
