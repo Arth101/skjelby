@@ -21,3 +21,5 @@ Krigshelten udfordre Balasar til kamp om Dragedræber sværdet, og begge krigere
 Mens festen tager fart og der kommer hård alkohol på bordene, sniger Glamo sig ind i Emirens have for at overvære en audiens mellem Samdralyrion og Ammar, som går dårligt for krigshelten. Irriteret og sur vender Ammar tilbage til festen og melder ud at han og hans følge vil drage tilbage mod Afrin næste morgen. Shahana Aaliyah prøver at overtale ham til at blive et par dage, men uden held, og beslutter sig for at drage med Ammar til Afrin for at inspicerer de østlige befæstningerne.
 
 Festen ebber ud, og efter at Nimbus har fået set og snakket lidt med Zeedars Wyvern, tager heltene hjem til deres kro, tilfredse med deres gerninger på denne festdag.
+
+![kampen mod Ammar](/img/kamp-mod-ammar.jpg)
