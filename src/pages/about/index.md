@@ -4,12 +4,15 @@ title: Level progression
 ---
 ### Level 9:
 
-| Event                         | XP     |
-| ----------------------------- | ------ |
-| Overskydende fra lvl 8        | 1      |
-| Ankom i Afrin                 | 5      |
-| Kamp mod Drow-elver Elite               | 15     |
-| **Total**                     | **21** |
+| Event                           | XP     |
+| ------------------------------- | ------ |
+| Overskydende fra lvl 8          | 1      |
+| Ankom i Afrin                   | 5      |
+| Kamp mod Drow Elite             | 12     |
+| Kamp mod Drow i gårdspladsen    | 5      |
+| Kampen mod Drow udenfor citadel | 13     |
+| Drow magic items                | 19     |
+| **Total**                       | **55** |
 
 - - -
 
@@ -44,26 +47,29 @@ Det kræver 100 (%) XP at stige til næste level. Mange ting giver XP, men som u
 Experience](http://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf).
 
 ## Tidligere levels:
+
 ### Level 8:
 
-| Event                         | XP     |
-| ----------------------------- | ------ |
-| Overskydende fra lvl 7        | 4      |
-| Hobgoblin overfald            | 5      |
-| Kamp mod Hobgoblins (nat)     | 3      |
-| Ankom i Buzra                 | 5      |
-| Erhvervet kort over kloakker  | 2      |
-| Information omkring Nat'Raeth | 2      |
-| Kamp mod Ropers               | 10     |
-| Udforsket grotter under Buzra | 7      |
-| Blev lukket ind til fest | 2      |
-| Udforsket grotter under Buzra | 7      |
-| Kamp mod Ammars folk | 10      |
-| Dragon Slayer Longsword (rare) | 4      |
-| Milepæl: Festen i Buzra | 25      |
-| Kyklop kamp | 10      |
-| **Total**                     | **101** |
+| Event                          | XP      |
+| ------------------------------ | ------- |
+| Overskydende fra lvl 7         | 4       |
+| Hobgoblin overfald             | 5       |
+| Kamp mod Hobgoblins (nat)      | 3       |
+| Ankom i Buzra                  | 5       |
+| Erhvervet kort over kloakker   | 2       |
+| Information omkring Nat'Raeth  | 2       |
+| Kamp mod Ropers                | 10      |
+| Udforsket grotter under Buzra  | 7       |
+| Blev lukket ind til fest       | 2       |
+| Udforsket grotter under Buzra  | 7       |
+| Kamp mod Ammars folk           | 10      |
+| Dragon Slayer Longsword (rare) | 4       |
+| Milepæl: Festen i Buzra        | 25      |
+| Kyklop kamp                    | 10      |
+| **Total**                      | **101** |
+
 - - -
+
 ##### Level 7:
 
 | Event                                  | XP  |
