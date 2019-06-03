@@ -44,14 +44,11 @@ export default class IndexPage extends React.Component {
                       </div>
                       <div className="content">
                         {post.frontmatter.description}
-                        <br />
-                        <br />
-                        <time>{post.frontmatter.date}</time>
                       </div>
                     </div>
                   </div>
                   <footer className="card-footer">
-                    <Link to={post.fields.slug} className="card-footer-item">Save</Link>
+                    <Link to={post.fields.slug} className="card-footer-item">Læs mere</Link>
                   </footer>
                 </div>
               ))}
