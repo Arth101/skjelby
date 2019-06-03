@@ -39,7 +39,7 @@ export default class IndexPage extends React.Component {
                     <div className="media">
                       <div className="media-left">
                         <figure className="image is-64x64">
-                        <img className="is-rounded" src="https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/17/100/100/636238885679566374.jpeg" alt="Placeholder image">
+                        <img className="is-rounded" src="https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/17/100/100/636238885679566374.jpeg" alt={post.frontmatter.title} />
                         </figure>
                       </div>
                       <div className="content">
