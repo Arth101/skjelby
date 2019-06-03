@@ -33,6 +33,7 @@ export default class IndexPage extends React.Component {
                   <header className="card-header">
                     <Link to={post.fields.slug}>
                       <p className="card-header-title is-size-5 has-text-weight-semibold">
+                        {post.frontmatter.title}
                       </p>
                     </Link>
                   </header>
@@ -45,7 +46,6 @@ export default class IndexPage extends React.Component {
                       </div>
                       <div className="content">
                         {post.frontmatter.description}
-                        {post.frontmatter.thumbnail}
                         <br />
                         <Link to={post.fields.slug}>Læs mere</Link>
                       </div>
