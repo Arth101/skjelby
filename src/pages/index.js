@@ -87,6 +87,7 @@ export const pageQuery = graphql`
             description
             templateKey
             date(formatString: "MMMM DD, YYYY")
+            thumbnail
           }
         }
       }
