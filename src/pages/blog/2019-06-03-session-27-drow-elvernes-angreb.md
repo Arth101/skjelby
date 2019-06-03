@@ -6,7 +6,7 @@ description: 'Halflingen Elida, kamp i Afrins gader og Succubus-Valzana.'
 tags:
   - resume
 ---
-
+**Intromelodi:** ["Bad Blood" af Taylor Swift](https://open.spotify.com/track/0TvQLMecTE8utzoNmvXRbK).
 
 ![behir](/img/behir.jpg)
 
