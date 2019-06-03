@@ -29,25 +29,30 @@ export default class IndexPage extends React.Component {
             </div>
             {posts
               .map(({ node: post }) => (
-                <div
-                  className="content"
-                  key={post.id}
-                >
-                  <p>
-                    <Link className="has-text-primary is-size-5 has-text-weight-semibold" to={post.fields.slug}>
+                <div class="card" key={post.id}>
+                  <header className="card-header">
+                    <p className="card-header-title is-size-5">
                       {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <small>{post.frontmatter.date}</small>
-                  </p>
-                  <p>
-                    {post.frontmatter.description}
-                    <br />
-                    <br />
-                    <Link className="button is-small" to={post.fields.slug}>
-                      Læs mere →
-                    </Link>
-                  </p>
+                    </p>
+                  </header>
+                  <div className="card-content">
+                    <div className="media">
+                      <div className="media-left">
+                        <figure className="image is-64x64">
+                        <img className="is-rounded" src="https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/17/100/100/636238885679566374.jpeg" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div className="content">
+                        {post.frontmatter.description}
+                        <br>
+                        <br>
+                        <time>{post.frontmatter.date}</time>
+                      </div>
+                    </div>
+                  </div>
+                  <footer className="card-footer">
+                    <Link to={post.fields.slug} className="card-footer-item">Save</Link>
+                  </footer>
                 </div>
               ))}
           </div>
