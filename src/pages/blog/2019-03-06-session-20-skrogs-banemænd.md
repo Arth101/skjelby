@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 20: Skrogs banemænd'
-thumbnail: /img/636252778143767005.jpeg
+thumbnail:
 date: 2019-03-06T13:08:17.436Z
 description: 'Kampen mod Skrog, "crit eller bliv crittet" og Bashars Famøse Fund.'
 tags:
