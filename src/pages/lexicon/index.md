@@ -14,14 +14,16 @@ title: Leksikon
 
 **Glamo Bænkesnitter**, en stille Skovelver med voldlige tendenser og et godt sigte.
 
-[Død] **Valzana**, gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben. Faldt i kamp under drow angrebet på Afrin i 997. Hvil i fred du hemmelighedsfulde fløjtespiller.
+**Elida**, halfling backup-skjald med lange fingre.
+
+**\[Død] Valzana**, gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben. Faldt i kamp under drow angrebet på Afrin i 997. Hvil i fred du hemmelighedsfulde fløjtespiller.
 
 # Persongalleri:
 
 ## Shahfamilien
 
 **Aaliyah, Shahana (prisesse)**.
-Hassaarisk kvinde, start 30’erne, 1.7m høj. Mørkt hør, gylden/mørk hud, gyldne øjne, adskillige ar i ansigtet blandt andet over mund og på kinderne. Aaliyah leder Bronze legionen i år 999. I 997 tog Aaliyah med Ammar og hans folk til Afrin for at 
+Hassaarisk kvinde, start 30’erne, 1.7m høj. Mørkt hør, gylden/mørk hud, gyldne øjne, adskillige ar i ansigtet blandt andet over mund og på kinderne. Aaliyah leder Bronze legionen i år 999. I 997 tog Aaliyah med Ammar og hans folk til Afrin for at se østfronten med egne øjne.
 
 **Mithbarakaz (Mith-bara-kaz), Shahazad (Drageprinsen)**.
 Sølv Half-dragon. 2.1m høj. Tager ledelsen af sølvlegionen omkring 997. Bærer platiniumbelagt metal rustning med armene bare, og skulderplader formet som vinger som strækker sig op mod himlen.
@@ -78,9 +80,9 @@ Mand, start 30'erne. Solbrændt brun hud, skulderlagt mørkt bølget hår, brune
 **Rukshana, Præstinde af Bahamut**.
 Tiefling, slut 20'erne. Blå hud og lyst hår. Vokset op i et tempel i byen Ain-Issa, hvor hun mødte Ammar. Senere tilsluttede hun sig hans gruppe og rejste med ham rundt i Ard Al'Hassaa.
 
-**Sekata**.
+**\[Død] Sekata**.
 Tiefling, 15 år (i 997). Mørkegrå hud og mørk bølget hår.
-Datter af Rukshana.
+Datter af Rukshana. Hun blev slået ihjel under drow-angrebet på Afrin i 997.
 
 **Tahan Baz Wasseem**.
 Ældre mand, mørkt kort hår med begyndende måne. I 999 var han i Skjelby med en gruppe lejesoldater for at assisterer Klaas med at overtage magten i byen. Han benyttede sig af mørk magi fra en magisk bog, som Nimbus senere overtog. Tahan blev slået ihjel af heltene og Klaas i Herremandens palæ. I 997 var han vismand og rådgiver i Afrin, og var med Ammar til Buzra og tilbage.
