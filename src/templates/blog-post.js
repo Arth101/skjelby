@@ -12,6 +12,7 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
+  thumbnail,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -51,6 +52,7 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
+  thumbnail: PropTypes.string,
   helmet: PropTypes.object,
 }
 
@@ -94,6 +96,7 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
+        thumbnail
         description
         tags
       }
