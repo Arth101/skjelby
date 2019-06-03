@@ -1,6 +1,8 @@
 ---
 templateKey: blog-post
 title: 'Session 26: Rejsen til Afrin'
+thumbnail: >-
+  https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/469/100/100/636376290136503923.jpeg
 date: 2019-05-29T10:27:43.971Z
 description: 'Vejen videre øst, dødsøjepasset og drow-elver angrebet på Afrin.'
 tags:
@@ -20,7 +22,7 @@ Genvejen gennem passet sparer gruppen for en dags rejse, og lidt før solnedgang
 
 > **Siden hvornår er vi begyndt ikke at dræbe Sort-elvere?**
 >
-> -_Kaptajn Nimbus_
+> \-_Kaptajn Nimbus_
 
 I Afrins citadel splitter heltene, Balasar og Glamo pakker gruppens ting ud i deres ny logi, og Borin, Nimbus og Valzana går med Emiren gennem fortet for at snakke med Emiren. Da de når Emiren, ser de at han er selvskab med tre drow-elvere, en lyst-klædt kvinde og to mænd, fuldt bevæbnede med sværd og rustning. Emiren virker ikke til at være sig selv, og Nimbus kaster en magi for at se om han er forhekset, hvilket drow-kvinden besvarer med at hidkalde et  stort slangemonster fra bahamut-ved-hvor. Kamp bryder ud, og den splittede gruppe forsøger at genvinde kontrollen, nu hvor de er i undertal. Fra gårdspladsen hører Balasar og Glamo lyden af kamp i fortet, og springer på Todrek for at komme deres venner til undsætning. Inden de hårdtslående typer når frem, ser kampen sort ud for Borin, Nimbus og ikke mindst Valzana, som bliver sandwichet mellem Emir Marduk og de to Drow-soldater, og hugget ned. Balasar og Glamo når lige at ankomme til at overvære en drow, der med et smil, henretter den bevidstløse Valzana med to sværd i brystet. Kampen raser videre, mens heltene fortvivlet prøver udtænke en måde at redde den harpespillende halv-elver som ligger død på gulvet, og den kvindelige drow-elver og en af hendes soldater tager flugten gennem et vindue, mens resten af modstanderne bliver nedkæmpet. Emir Marduk holdes nede, og Ammar løber efter diamanter til et genoplivelses ritual.
 
