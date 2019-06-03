@@ -29,7 +29,7 @@ export default class IndexPage extends React.Component {
             </div>
             {posts
               .map(({ node: post }) => (
-                <div class="card" key={post.id}>
+                <div class="card" key={post.id} style={marginBottom: 20}>
                   <header className="card-header">
                     <p className="card-header-title is-size-5">
                       {post.frontmatter.title}
