@@ -33,7 +33,6 @@ export default class IndexPage extends React.Component {
                   <header className="card-header">
                     <Link to={post.fields.slug}>
                       <p className="card-header-title is-size-5 has-text-weight-semibold">
-                        {post.frontmatter.title}
                       </p>
                     </Link>
                   </header>
