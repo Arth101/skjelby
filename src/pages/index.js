@@ -45,7 +45,7 @@ export default class IndexPage extends React.Component {
                       <div className="content">
                         {post.frontmatter.description}
                         <br />
-                        <Link to={post.fields.slug} className="card-footer-item">Læs mere</Link>
+                        <Link to={post.fields.slug}>Læs mere</Link>
                       </div>
                     </div>
                   </div>
