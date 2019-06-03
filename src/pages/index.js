@@ -3,8 +3,6 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
-let thumbnailImage = post.frontmatter.thumbnail || 'https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/19/100/100/636238888309014828.jpeg'
-
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
@@ -31,6 +29,7 @@ export default class IndexPage extends React.Component {
             </div>
             {posts
               .map(({ node: post }) => (
+                let thumbnailImage = post.frontmatter.thumbnail || 'https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/19/100/100/636238888309014828.jpeg'
                 <div class="card" key={post.id} style={{marginBottom: 20}}>
                   <header className="card-header">
                     <p className="card-header-title is-size-5 has-text-weight-semibold">
@@ -41,7 +40,7 @@ export default class IndexPage extends React.Component {
                     <div className="media">
                       <div className="media-left">
                         <figure className="image is-64x64">
-                        <img className="is-rounded" src={post.frontmatter.thumbnail} alt={post.frontmatter.title} />
+                        <img className="is-rounded" src={thumbnailImage} alt={post.frontmatter.title} />
                         </figure>
                       </div>
                       <div className="content">
