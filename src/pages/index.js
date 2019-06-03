@@ -29,18 +29,19 @@ export default class IndexPage extends React.Component {
             </div>
             {posts
               .map(({ node: post }) => (
-                let thumbnailImage = post.frontmatter.thumbnail || 'https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/19/100/100/636238888309014828.jpeg'
                 <div class="card" key={post.id} style={{marginBottom: 20}}>
                   <header className="card-header">
-                    <p className="card-header-title is-size-5 has-text-weight-semibold">
-                      {post.frontmatter.title}
-                    </p>
+                    <Link to={post.fields.slug}>
+                      <p className="card-header-title is-size-5 has-text-weight-semibold">
+                        {post.frontmatter.title}
+                      </p>
+                    </Link>
                   </header>
                   <div className="card-content">
                     <div className="media">
                       <div className="media-left">
                         <figure className="image is-64x64">
-                        <img className="is-rounded" src={thumbnailImage} alt={post.frontmatter.title} />
+                        <img className="is-rounded" src={post.frontmatter.thumbnail || 'https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/19/100/100/636238888309014828.jpeg'} alt={post.frontmatter.title} />
                         </figure>
                       </div>
                       <div className="content">
