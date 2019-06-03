@@ -1,7 +1,8 @@
 ---
 templateKey: blog-post
 title: 'Session 27: Drow-elvernes angreb'
-thumbnail: /img/behir.jpg
+thumbnail: >-
+  https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/194/100/100/636252763747881581.jpeg
 date: 2019-06-03T10:40:02.312Z
 description: 'Halflingen Elida, kamp i Afrins gader og Succubus-Valzana.'
 tags:
