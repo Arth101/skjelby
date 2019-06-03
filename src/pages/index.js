@@ -31,7 +31,7 @@ export default class IndexPage extends React.Component {
               .map(({ node: post }) => (
                 <div class="card" key={post.id} style={{marginBottom: 20}}>
                   <header className="card-header">
-                    <p className="card-header-title is-size-5">
+                    <p className="card-header-title is-size-5 has-text-weight-semibold">
                       {post.frontmatter.title}
                     </p>
                   </header>
