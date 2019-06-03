@@ -44,8 +44,8 @@ export default class IndexPage extends React.Component {
                       </div>
                       <div className="content">
                         {post.frontmatter.description}
-                        <br>
-                        <br>
+                        <br />
+                        <br />
                         <time>{post.frontmatter.date}</time>
                       </div>
                     </div>
