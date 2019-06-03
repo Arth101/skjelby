@@ -3,6 +3,8 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
+let thumbnailImage = post.frontmatter.thumbnail || 'https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/19/100/100/636238888309014828.jpeg'
+
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
@@ -44,6 +46,7 @@ export default class IndexPage extends React.Component {
                       </div>
                       <div className="content">
                         {post.frontmatter.description}
+                        {post.frontmatter.thumbnail}
                         <br />
                         <Link to={post.fields.slug}>Læs mere</Link>
                       </div>
