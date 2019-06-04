@@ -1,6 +1,8 @@
 ---
 templateKey: blog-post
 title: 'Session 18: Opgøret med Sphinxen'
+thumbnail: >-
+  https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/382/100/100/636252780785832418.jpeg
 date: 2019-02-26T09:01:21.706Z
 description: 'Kamp på templets top, en tur i helvedet og Tiamat.'
 tags:
