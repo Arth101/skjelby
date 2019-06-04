@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 22: Ankomst i Buzra'
+thumbnail: img/hobgoblin-thumbnail.jpg
 date: 2019-04-03T10:12:10.626Z
 description: Glamo får tæsk af hobgobliner og heltene ankommer til Buzra.
 tags:
