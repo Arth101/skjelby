@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 24: Shahanaens ankomst'
+thumbnail: img/roper-thumbnail.jpg
 date: 2019-05-06T11:03:37.845Z
 description: 'Aaliyah ankommer, Valzana bliver overfaldet af tentakler og en portal opdages.'
 tags:
