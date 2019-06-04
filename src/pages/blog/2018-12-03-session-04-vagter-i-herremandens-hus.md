@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 04: Vagter i herremandens hus'
+thumbnail: img/bag-of-devouring-thumbnail.jpg
 date: 2018-12-03T12:44:33.256Z
 description: >-
   Mens Kaptajnens og hans vagter rydder ud i mudderstredet i nattens mulm og
