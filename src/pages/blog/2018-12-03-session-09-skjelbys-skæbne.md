@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 09: Skjelbys Skæbne'
+thumbnail: img/manticore-thumbnail.jpg
 date: 2018-12-03T12:56:22.328Z
 description: >-
   Heltene ankommer i Herremandens hus og bekæmper en Manticore samt en troldmand
