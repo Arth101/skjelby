@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 23: Spa Stay for fem'
+thumbnail: brass-dragon-thumbnail
 date: 2019-04-07T11:43:00.604Z
 description: 'Heltene møder en Emir, tager i spa og overværger en henrettelse.'
 tags:
