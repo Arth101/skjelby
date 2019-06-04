@@ -1,8 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 26: Rejsen til Afrin'
-thumbnail: >-
-  https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/469/100/100/636376290136503923.jpeg
+thumbnail: img/cyclopse-thumbnail.jpg
 date: 2019-05-29T10:27:43.971Z
 description: 'Vejen videre øst, dødsøjepasset og drow-elver angrebet på Afrin.'
 tags:
