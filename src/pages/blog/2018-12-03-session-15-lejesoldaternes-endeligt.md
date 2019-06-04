@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 15: Lejesoldaternes Endeligt'
+thumbnail: img/bandit-thumbnail.jpg
 date: 2018-12-03T13:19:30.286Z
 description: 'Lejesoldaterne lokaliseres, et overfald planlægges og Zedaar går amok.'
 tags:
