@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 12: Dragonborns slår igen!'
+thumbnail: img/wyvern-thumbnail.jpg
 date: 2018-12-03T13:10:20.237Z
 description: >-
   Heltene brænder piratskibet, møder Bronzedragen Kairozdormu og nedkæmper en
