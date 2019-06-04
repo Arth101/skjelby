@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 16: Legionærer og Dragedræbere'
+thumbnail: img/blue-dragon-thumbnail.jpg
 date: 2018-12-03T13:26:48.162Z
 description: 'Torben er reddet, legionærer, kampen mod den blå drage Surragos og rigdom.'
 tags:
