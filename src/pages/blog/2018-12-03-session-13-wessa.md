@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 13: Wessa'
+thumbnail: img/port-thumbnail.jpg
 date: 2018-12-03T13:12:33.458Z
 description: >-
   Esmareldaen overlever en voldsom storm, ankommer i Wessa havn og Balasar
