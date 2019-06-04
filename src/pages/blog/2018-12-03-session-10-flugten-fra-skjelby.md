@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 10: Flugten fra Skjelby'
+thumbnail: img/manta-ray-cloak-thumbnail.jpg
 date: 2018-12-03T12:58:04.591Z
 description: >-
   Herremandens Villa bliver plyndret, heltene flygter med Herremand Jones og
