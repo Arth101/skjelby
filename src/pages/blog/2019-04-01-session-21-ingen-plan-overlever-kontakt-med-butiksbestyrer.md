@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 21: Ingen plan overlever kontakt med butiksbestyrer'
+thumbnail: img/bugbear-thumbnail.jpg
 date: 2019-04-01T09:32:58.022Z
 description: 'Heltene forsøger at "låne" ting, bliver overfaldt og bugbears.'
 tags:
