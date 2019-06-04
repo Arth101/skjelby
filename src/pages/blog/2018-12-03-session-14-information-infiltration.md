@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 14: Information / Infiltration'
+thumbnail: img/owl-thumbnail.jpg
 date: 2018-12-03T13:18:43.972Z
 description: >-
   Nimbus og Glamo infiltrerer et skib, Valzana shopper og Balarin besøger på
