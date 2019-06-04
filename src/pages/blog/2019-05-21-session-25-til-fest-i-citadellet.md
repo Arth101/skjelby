@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 25: Til fest i citadellet'
+thumbnail: img/tiefling-thumbnail.jpg
 date: 2019-05-21T11:35:01.756Z
 description: 'Til fest hos en emir, krigshelte og tvekamp.'
 tags:
