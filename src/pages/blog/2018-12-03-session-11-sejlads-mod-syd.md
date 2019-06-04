@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 11: Sejlads mod syd'
+thumbnail: img/kerrigosa-thumbnail.jpg
 date: 2018-12-03T13:01:25.136Z
 description: >-
   Heltene, nu forstærket med Balasa og Valzana, sejler mod syd, men bliver
