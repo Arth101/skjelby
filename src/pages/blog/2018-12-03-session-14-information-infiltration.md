@@ -24,3 +24,5 @@ Balarin støder ind i en skummel Skovelver der forsøger at sælge dem potentiel
 Tilbage på Esmareldaen arbejder Nimbus på et nyt magisk ritual, og hidkalder en familliar fra en anden plane: Uglen Arkimedes.
 
 Vores helte er nu klar til at finde lejesoldaterne og ikke mindst Torben.
+
+![Glamo hidden](/img/glamo-hidden.jpg)
