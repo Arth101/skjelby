@@ -11,6 +11,8 @@ tags:
 ---
 **Intromelodi:** ["Dungeons & Dragons is Gay" af El Privates.](https://open.spotify.com/track/5hy4B1rDnkfouC7SgtEqQN)
 
+![arkimedes](/img/arkimedes.jpeg)
+
 ## Fuldt Resume:
 
 I Wessa havn samler vores helte sig for at opklare deres mysteriet: Hvor er Torben? Første skridt er at infiltrere Fragtskibet Karen Sofie, som Torben og lejesoldaterne sejlede fra Mågstrup i.
@@ -22,5 +24,3 @@ Balarin støder ind i en skummel Skovelver der forsøger at sælge dem potentiel
 Tilbage på Esmareldaen arbejder Nimbus på et nyt magisk ritual, og hidkalder en familliar fra en anden plane: Uglen Arkimedes.
 
 Vores helte er nu klar til at finde lejesoldaterne og ikke mindst Torben.
-
-![](/img/arkimedes.jpeg)
