@@ -18,3 +18,9 @@ Heltene samler sig i lejerens centrum, og får slæbt den forstenede Valzana der
 Næste rum er en stor arena, hvor en Sphinx venter dem. Sphinxen beder dem høfligt om at forlade dens tempel, med det samme, inden den må ty til vold, og det synes heltene lyder som en god plan. Dog må Borin informerer de andre om at Nimbus er forsvundet ned i dybet, og en redningsaktion bliver straks udtænkt. Nimbus har dog selv ressourcer til at slippe ud, og han trækker sin magiske bog ud og spørger bogens ejer, Den mørke prins, om en tjeneste. Imod en lille del af hans sind og fornuft, vil prinsen gerne hjælpe Nimbus og pludselig har Nimbus magi til at flyve. Kæphøjt råber han til titanen, som vågner og langer ud efter ham med sit sværd, og med nød og næppe flyver han op mod friheden og den friske luft. På vejen op møder han Valzana og er på vej ned til ham, men sin egen flyve-magi, og sammen popper de op af hullet.
 
 Sammen igen skynder heltene sig at heale hinanden, men Sphinxen materialiserer sig bag dem pludseligt, men kløerne fremme og klar til kamp.
+
+![ildtitanen skrog](/img/skrog-sleeping.jpg)
+
+_Nimbus står ansigt til ansigt med den sovende ild titan._
+
+__
