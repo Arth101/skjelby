@@ -23,4 +23,6 @@ Sammen igen skynder heltene sig at heale hinanden, men Sphinxen materialiserer s
 
 _Nimbus står ansigt til ansigt med den sovende ild titan._
 
-__
+![valzana og nimbus flyby](/img/valzana-nimbus-flyby.jpg)
+
+_Valzana og Nimbus mødes, flyvende, på halvvejen._
