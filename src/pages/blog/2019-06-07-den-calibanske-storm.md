@@ -17,6 +17,12 @@ _I et snedigt forsøg på at vende krigsglæden, sender det ktoniske militær nu
 
 _I leder en deling under denne mission, og må kæmpe for at den retmæssige tronarving atter kan sidde på tronen i hovedstaden Ardukh._
 
+## Karakterer i one-shot:
+
+* Sergent Skod - Human Barbarian (path of the Berserker).
+* Sergent Videl - Human Sorceror (Storm Sorcery).
+* Sergent C.P. - Human Fighter (Battle Master).
+
 ## Områder i Østermark:
 
 ### Caliban
