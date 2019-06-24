@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'Session 28: Noctis Labyrinthus'
 thumbnail: img/venom-troll-thumbnail.jpg
 date: 2019-06-24T13:13:27.454Z
-description: 'Underverden, gedemord og mørke.'
+description: 'Trolde, gedemord og mørke tunneler.'
 tags:
   - resume
 ---
