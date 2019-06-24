@@ -12,7 +12,11 @@ title: Level progression
 | Kamp mod Drow i gårdspladsen    | 5      |
 | Kampen mod Drow udenfor citadel | 13     |
 | Drow magic items                | 19     |
-| **Total**                       | **55** |
+| Kamp mod trolde                | 5     |
+| Fandt magiske frø                | 2     |
+| "Kamp" mod Troglodyte-stamme                | 2     |
+| Ankom til svampeskoven                | 3     |
+| **Total**                       | **67** |
 
 - - -
 
