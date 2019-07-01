@@ -16,7 +16,9 @@ title: Level progression
 | Fandt magiske frø                | 2     |
 | "Kamp" mod Troglodyte-stamme                | 2     |
 | Ankom til svampeskoven                | 3     |
-| **Total**                       | **67** |
+| Fandt Drow-port                | 3     |
+| Kamp om Drow-port                | 15     |
+| **Total**                       | **85** |
 
 - - -
 
