@@ -7,6 +7,8 @@ description: 'Drow-elvere lokaliseret, Slange-mennesker og kampen om porten.'
 tags:
   - resume
 ---
+**Intromelodi:** "In the Shadows" af The Rasmus.
+
 ![yuan-ti](/img/yuan-ti.jpg)
 
 ## Fuldt resume:
