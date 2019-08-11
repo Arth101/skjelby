@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 29: Føling ved drow-porten'
-thumbnail: /img/yuan-ti-thumbnail.jpg
+thumbnail: img/yuan-ti-thumbnail.jpg
 date: 2019-07-29T22:01:51.733Z
 description: 'Drow-elvere lokaliseret, Slange-mennesker og kampen om porten.'
 tags:
