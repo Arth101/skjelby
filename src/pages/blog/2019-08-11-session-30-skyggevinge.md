@@ -9,7 +9,7 @@ description: >-
 tags:
   - resume
 ---
-**Introsang: **"I'll Fight" af Daughtry.
+**Introsang:** "I'll Fight" af Daughtry.
 
 ![skyggevinge](/img/shadow-dragon.jpg)
 
