@@ -9,8 +9,6 @@ description: >-
 tags:
   - resume
 ---
-****
-
 **Intromelodi:** ["Demons Are a Girl's Best Friend" af Powerwolf](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s).
 
 ![derro](/img/derro.png)
