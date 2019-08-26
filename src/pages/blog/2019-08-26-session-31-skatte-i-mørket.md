@@ -23,6 +23,14 @@ I paladsets ruiner begynder heltene at søge efter dragens skatte, og finder eft
 
 I Blingdenstens østlige side, finder heltene et lille vandfald, beslutter sig for at følge det, i håb om at det kan lede dem mod drow-elvernes områder. Efter en times vandring kommer de til en åbning i klippevæggen, hvor de ude i mørket kan se et magisk lys fra en enorm drypsten. Over dem hører de stemmer, som Nimbus genkender som underjordisk-sprog. Odrin viser sig at være en nyttig kompagnon, og kaster en besværgelse på Glamo der gør det muligt at gå på lodrette vægge, og som en anden edderkop sniger skov-elveren sig op for at fæstne et reb de andre kan klatre op af. På toppen af klippen ligger et udkigstårn, hvor Glamo binder sit reb fast, men drow-elverne fatter mistanke og da deres leder begynder at samle en lille gruppe for at undersøge situationen, kravler Balasar over kanten. Fjenderne trækker deres armbrøste og sværd og går til angreb, og Nimbus, Balasar og Glamo må kæmpe for dem selv mens resten af gruppen kravler op af rebet.
 
+> **"For Hun'ett huset! Død over overflade elverne!" **
+>
+> \- Rizzen Hun'ett, 6 sekunder inden han blev slået ihjel.
+
 Den lille snu halfling Elida bruger sin magiske harpe til at flyve op og være i dækning af klippevæggen, mens hun kaster magi mod drow-elverne, men i en regn af giftige armbrøstbolte bliver hun ramt, og bliver bevidstløs af drow-giften. Inden hun når at styrte i døden, smider Balasar alt hvad han har, kaster sig ud over kanten og griber hende i sin store arm mens han borer sine klør ind i klippesiden. I kampens hede kæmper heltene videre, men med Balasar og Elida midlertidigt ude af spillet, trækker Drow-lederen sig tilbage ud i mørket og forsvinder, mens andre usete fjender bliver tvunget til at trække sig, pga. En ildkugle fra Borin.
 
 De forsvinder længere ud i netværket af hængebroer som forbinder de enorme drypsten der hænger fra grottens loft.
+
+
+
+![Drow forpost](/img/drow-forpost.jpg)
