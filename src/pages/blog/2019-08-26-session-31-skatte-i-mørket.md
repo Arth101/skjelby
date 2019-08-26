@@ -9,6 +9,8 @@ description: >-
 tags:
   - resume
 ---
+****
+
 **Intromelodi:** ["Demons Are a Girl's Best Friend" af Powerwolf](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s).
 
 ![derro](/img/derro.png)
@@ -23,7 +25,7 @@ I paladsets ruiner begynder heltene at søge efter dragens skatte, og finder eft
 
 I Blingdenstens østlige side, finder heltene et lille vandfald, beslutter sig for at følge det, i håb om at det kan lede dem mod drow-elvernes områder. Efter en times vandring kommer de til en åbning i klippevæggen, hvor de ude i mørket kan se et magisk lys fra en enorm drypsten. Over dem hører de stemmer, som Nimbus genkender som underjordisk-sprog. Odrin viser sig at være en nyttig kompagnon, og kaster en besværgelse på Glamo der gør det muligt at gå på lodrette vægge, og som en anden edderkop sniger skov-elveren sig op for at fæstne et reb de andre kan klatre op af. På toppen af klippen ligger et udkigstårn, hvor Glamo binder sit reb fast, men drow-elverne fatter mistanke og da deres leder begynder at samle en lille gruppe for at undersøge situationen, kravler Balasar over kanten. Fjenderne trækker deres armbrøste og sværd og går til angreb, og Nimbus, Balasar og Glamo må kæmpe for dem selv mens resten af gruppen kravler op af rebet.
 
-> **"For Hun'ett huset! Død over overflade elverne!" **
+> **"For Hun'ett huset! Død over overflade elverne!"**
 >
 > \- Rizzen Hun'ett, 6 sekunder inden han blev slået ihjel.
 
@@ -32,3 +34,9 @@ Den lille snu halfling Elida bruger sin magiske harpe til at flyve op og være i
 De forsvinder længere ud i netværket af hængebroer som forbinder de enorme drypsten der hænger fra grottens loft.
 
 ![Drow forpost](/img/drow-forpost.jpg)
+
+_Skide nice drypsten Rizzen. Godt arbejde!_
+
+![Drow map](/img/drow-forpost-map.jpg)
+
+_Battle map ved afslutning af mindst 2.5 times kamp..._
