@@ -31,6 +31,4 @@ Den lille snu halfling Elida bruger sin magiske harpe til at flyve op og være i
 
 De forsvinder længere ud i netværket af hængebroer som forbinder de enorme drypsten der hænger fra grottens loft.
 
-
-
 ![Drow forpost](/img/drow-forpost.jpg)
