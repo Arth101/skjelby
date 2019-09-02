@@ -2,23 +2,16 @@
 templateKey: about-page
 title: Level progression
 ---
-### Level 9:
+### Level 10:
 
 | Event                           | XP     |
 | ------------------------------- | ------ |
-| Overskydende fra lvl 8          | 1      |
-| Ankom i Afrin                   | 5      |
-| Kamp mod Drow Elite             | 12     |
-| Kamp mod Drow i gårdspladsen    | 5      |
-| Kampen mod Drow udenfor citadel | 13     |
-| Drow magic items                | 19     |
-| Kamp mod trolde                | 5     |
-| Fandt magiske frø                | 2     |
-| "Kamp" mod Troglodyte-stamme                | 2     |
-| Ankom til svampeskoven                | 3     |
-| Fandt Drow-port                | 3     |
-| Kamp om Drow-port                | 15     |
-| **Total**                       | **85** |
+| **Session 31**          | 15      |
+| - Gennemsøge Blingdensten |
+| - Kæmpe mod Skyggevæsner |
+| - Kæmpe ved Drow forpost |
+| Session 32:          | 15      |
+| **Total**                       | **30** |
 
 - - -
 
@@ -53,6 +46,28 @@ Det kræver 100 (%) XP at stige til næste level. Mange ting giver XP, men som u
 Experience](http://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf).
 
 ## Tidligere levels:
+
+### Level 9:
+
+| Event                           | XP     |
+| ------------------------------- | ------ |
+| Overskydende fra lvl 8          | 1      |
+| Ankom i Afrin                   | 5      |
+| Kamp mod Drow Elite             | 12     |
+| Kamp mod Drow i gårdspladsen    | 5      |
+| Kampen mod Drow udenfor citadel | 13     |
+| Drow magic items                | 19     |
+| Kamp mod trolde                | 5     |
+| Fandt magiske frø                | 2     |
+| "Kamp" mod Troglodyte-stamme                | 2     |
+| Ankom til svampeskoven                | 3     |
+| Fandt Drow-port                | 3     |
+| Kamp om Drow-port                | 15     |
+| Kamp mod Troglodyte-stamme II                | 2     |
+| Kamp mod Hobgoblin-gruppen                | 2     |
+| Ankom til Blingdensten                | 3     |
+| Kampen mod drangen Skyggevinge                | 15     |
+| **Total**                       | **107** |
 
 ### Level 8:
 
