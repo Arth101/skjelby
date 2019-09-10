@@ -9,7 +9,7 @@ description: >-
 tags:
   - resume
 ---
-**Introsang:** "I'll Fight" af Daughtry.
+**Introsang:** ["I'll Fight" af Daughtry](https://open.spotify.com/track/5SYb42keVyr5S9smozZRWl).
 
 ![skyggevinge](/img/shadow-dragon.jpg)
 
@@ -24,3 +24,7 @@ Da heltene ankommer til byen, som ligger i ruiner, finder de mistænkelige skygg
 Da Borin hidkalder Valarnes lys i grotten vender kampen, med begge sider desperate for at tage den anden part ud så hurtigt så muligt. Et velplaceret skud fra Glamo afslutter kampen, og dragen falder død til jorden mens skyggerne trækker sig væk fra pladsen.
 
 Borin styrter mod den bevidstløse Nimbus for at helbrede ham inden han bløder ud.
+
+![gnom byen, Blingdensten](/img/blingdensten.jpg)
+
+_Gnom byen, Blingdensten._
