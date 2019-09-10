@@ -62,22 +62,27 @@ $body-size: 18px
   
 .hero-frontpage
   position: relative
-  background-image: url("../img/owlbear.webp")
   background-size: cover
-  background-position: 85% 38%
   background-repeat: no-repeat
-  
+
+.hero-frontpage--owlbear
+  background-image: url("../img/owlbear.webp")
+  background-position: 85% 38%
+    
   @media(min-width: 768px)
     background-size: 600px
+    
+.hero-frontpage--drow
+  background-image: url("../img/drow-hero.jpg")
   
-  &:before
-    content: ''
-    position: absolute
-    top: 0
-    right: 0
-    bottom: 0
-    left: 0
-    background-image: linear-gradient(to bottom, $primary, #ff9068)
-    opacity: .6
-    height: 100%
-    width: 100%
+.hero-frontpage--overlay:before
+  content: ''
+  position: absolute
+  top: 0
+  right: 0
+  bottom: 0
+  left: 0
+  background-image: linear-gradient(to bottom, $primary, #ff9068)
+  opacity: .6
+  height: 100%
+  width: 100%
