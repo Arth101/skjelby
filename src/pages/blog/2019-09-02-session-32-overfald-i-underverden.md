@@ -9,8 +9,6 @@ description: >-
 tags:
   - resume
 ---
-****
-
 **Intromelodi:** ["Catch Me When I Fall" af The Corrs.](https://open.spotify.com/track/4s4lPeWsestSljYbNRn8TF)
 
 ![drow våben](/img/drow-items.jpg)
