@@ -9,13 +9,21 @@ description: >-
 tags:
   - resume
 ---
+****
+
 **Intromelodi:** ["Catch Me When I Fall" af The Corrs.](https://open.spotify.com/track/4s4lPeWsestSljYbNRn8TF)
 
 ![drow våben](/img/drow-items.jpg)
 
 ## Fuldt resume:
 
-Vores helte befinder sig ved en klippeside, i den mørke underverden, hvor de lige har jaget en flok drow-elvere på flugt ved et fjendtlig vagttårn. Dog er heltene stadig i fjendtligt territorium, og står overfor valget mellem at undersøge de drypstenshuler som drow-elverne har trukket sig tilbage til, eller følge efter den fjendtlige leder, som flygtede ud af en tunnel den modsatte vej. Heltene beslutter sig for at følge efter lederen, og Nimbus forklæder sig som en af de afdøde drow-elvere, Rizzen af Hun’ett familien, og tager fortroppen mens gruppen bevæger sig ned af underverdenens smalle korridorer.
+Vores helte befinder sig ved en klippeside, i den mørke underverden, hvor de lige har jaget en flok drow-elvere på flugt ved et fjendtlig vagttårn. Dog er heltene stadig i fjendtligt territorium, og står overfor valget mellem at undersøge de drypstenshuler som drow-elverne har trukket sig tilbage til, eller følge efter den fjendtlige leder, som flygtede ud af en tunnel den modsatte vej. Mens de andre helte slikker deres sår, gennemsøger Nimbus en af de afdøde drow-elvere, Rizzen af Hun’ett familien, og finder et symbol ingraveret i hans skjold, som ligner mistænkeligt meget det på Nimbus egen hånd, samt en halskæde med en lille symbol af en slange på.
+
+![Graz'zt symbol](/img/grazzt-symbol.jpg)
+
+_Symbolet på Rizzen Hun'etts skjold. Også symbolet på Nimbus pagt med Den Sorte Prins, Graz'zt._
+
+Heltene beslutter sig for at følge efter lederen, og lader Nimbus, som nu er forklædt somg som den afdøde Rizzen, tage fortroppen mens gruppen bevæger sig ned af underverdenens smalle korridorer.
 
 Heltene ankommer finder en lille hule, hvor de holder en pause mens Elida udforsker en sprække i klippevæggen. Hun kravler opad i nogen tid, og kommer til en åbning, hvor hun med nød og næppe undgår nogle drow-elvere. Elida kravler tilbage og heltene går videre ned af gangen. Her kommer de kort efter til en åbning i grotten, med 3 niveauer af klippe-platforme. Dette område er et glimrende sted at overfalde udefrakommende, viser det sig, da fire Sort-elvere åbner kampen med en salve af pile og bolte.
 
@@ -25,6 +33,8 @@ Heltene har endnu engang sejret, men udmattelsen begynder at vise sit grimme ans
 
 De når tilbage til forposten, og med modstanderne lige i hælene springer de på Glamos griff, Sortklo, og flyver ned i den åbning på klippevæggen de kom fra originalt. Langsomt lister de sig tilbage mod Blingdensten, men det er tydeligt at de stadig er jaget.
 
-Ved ankomst til Blingdensten skynder heltene sig til paladset i byens centrum, og kravler ned under de murbrokker hvor de originalt mødte Odrin. Det magiske tårn bliver hidkaldt igen, og heltene lægger sig til at sove, lidt sammenklemt. I løbet af de første fire timers vagt, hører Nimbus stemmer, og en time inde i Glamos vagt, finder to slangemænd heltenes tårn. Ude af stand til at komme ind i tårnet, tyder slangemændende til vold, og da dette heller ikke hjælper dem meget, beslutter de sig for at hente deres leder.
+Ved ankomst til Blingdensten skynder heltene sig til paladset i byens centrum, og kravler ned under de murbrokker hvor de originalt mødte Odrin. Det magiske tårn bliver hidkaldt igen, og heltene lægger sig til at sove, lidt sammenklemt. Vores to elvere tager vagt-tjansen, og mens de undersøger deres nyerhvervede magiske ting, hører Nimbus stemmer over dem. En time inde i Glamos vagt, finder to slangemænd heltenes tårn, og ude af stand til at komme ind i tårnet, tyder slangemændende til vold. Da tårnets dør viser sig at være meget stærk, beslutter de to slanger sig for at hente deres leder, men inden de når at smutte, åbner Nimubs døren og springer imod dem med sig sværd.
 
-Inden de når at smutte, åbner Nimubs døren og springer imod dem med sig sværd.
+![Couatl skjold](/img/couatl-shield.jpg)
+
+_Nimbus nye skjold, Couatl Herald's Guard. Fundet i ruinerne af Blingdenstens palads._
