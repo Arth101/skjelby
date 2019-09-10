@@ -106,7 +106,7 @@ Ung mand. stort sort skæg, og altid en stor glaive ved sin side.
 
 **\[Død] Thauglorimogorgorus (Thau-glori-mo-gor-gorus), Sort drage**.
 
-**\[Død] Shuusshuru (Shu-shu-ru) Skyggevinge, Rød Skyggedrage. **Herre over den forladte by, Blingdensten i Underverden. Dræbt at heltene i 997.
+**\[Død] Shuusshuru (Shu-shu-ru) Skyggevinge, Rød Skyggedrage**. Herre over den forladte by, Blingdensten i Underverden. Dræbt at heltene i 997.
 
 ## Drow-elvere:
 
