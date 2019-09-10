@@ -98,12 +98,28 @@ Ung mand. stort sort skæg, og altid en stor glaive ved sin side.
 
 **Ziraj, halv-ork tracker**.
 
-## Fjender
+## Kromatiske Drager:
 
 **Adragosa (A-dra-gosa), Blå drage**.
 
-**\[Død] Surragos (Su-ra-gos), ung blå drage**.
+**\[Død] Surragos (Su-ra-gos), ung Blå drage**.
 
 **\[Død] Thauglorimogorgorus (Thau-glori-mo-gor-gorus), Sort drage**.
 
+**\[Død] Shuusshuru (Shu-shu-ru) Skyggevinge, Rød Skyggedrage. **Herre over den forladte by, Blingdensten i Underverden. Dræbt at heltene i 997.
+
+## Drow-elvere:
+
+**Briza Hun'ett, Stormesterinden for Den Sorte Fyrstinde.**
+
+**\[Død] Rizzen Hun'ett.** Dræbt af heltene under deres angreb på drow-forposten i 997.
+
+**Angolth DeVir.** Berserker fra DeVir familien. Forsøgte at indgå en alliance med heltene, for at svække Hun'ett familiens magt.
+
+**Nalfein DeVir.** Assassin.
+
+## Gobulus Khanatet (Hobgoblins):
+
 **Gobulus Khan, Hobgoblin Khan af Gobulus Khanatet**.
+
+**Oyuun, Delingsfører af Ekspeditions gruppe i Underverden.**
