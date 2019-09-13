@@ -6,10 +6,8 @@ title: Level progression
 
 | Event                           | XP     |
 | ------------------------------- | ------ |
-| **Session 31**          | 15      |
-| Opdagelser i Blingdensten, Skyggeportalen & dragens skatte, Kampen ved Drow forpost. |
-| **Session 32**          | 15      |
-| Kamp mod Drow Assassinere, flugt tilbage mod Blingdensten. |
+| **Session 31:** _Opdagelser i Blingdensten, Skyggeportalen & dragens skatte, Kampen ved Drow forpost._          | 15      |
+| **Session 32:** _Kamp mod Drow Assassinere, Tilbagetrækning til Blingdensten._          | 15      |
 | **Total**                       | **30** |
 
 - - -
