@@ -8,7 +8,7 @@ title: Level progression
 | ------------------------------- | ------ |
 | **Session 31**          | 15      |
 | Opdagelser i Blingdensten, Skyggeportalen & dragens skatte, Kampen ved Drow forpost. |
-| **Session 32:**          | 15      |
+| **Session 32**          | 15      |
 | Kamp mod Drow Assassinere, flugt tilbage mod Blingdensten. |
 | **Total**                       | **30** |
 
