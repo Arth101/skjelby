@@ -7,10 +7,9 @@ title: Level progression
 | Event                           | XP     |
 | ------------------------------- | ------ |
 | **Session 31**          | 15      |
-| - Gennemsøge Blingdensten |
-| - Kæmpe mod Skyggevæsner |
-| - Kæmpe ved Drow forpost |
-| Session 32:          | 15      |
+| Opdagelser i Blingdensten, Skyggeportalen & dragens skatte, Kampen ved Drow forpost. |
+| **Session 32:**          | 15      |
+| Kamp mod Drow Assassinere, flugt tilbage mod Blingdensten. |
 | **Total**                       | **30** |
 
 - - -
@@ -25,25 +24,9 @@ Det kræver 100 (%) XP at stige til næste level. Mange ting giver XP, men som u
 * At overleve en kamp mod baddies.
 * Alt andet som DMen synes giver mening.
 
-### Guidelines:
-
-##### Magic items:
-
-* Uncommon: 2 XP
-* Rare: 4 XP
-* Very Rare: 7 XP
-* Legendary: 10 XP
-
-##### Kamp:
-
-* Overlegen: 5 XP
-* Udfordrene: 10 XP
-* Deadly: 15 XP
-
-### Læs mere:
-
-[Unearthed Arcana: Three-Pillar	
-Experience](http://media.wizards.com/2017/dnd/downloads/UA-ThreePillarXP.pdf).
+Generelt uddeles der omkring 15% XP per session. Det kan være lidt mere eller mindrere afhængig af hvad heltene har opnået under sessionen.
+For hvert level heltene opnår over level 10, falder antallet af XP de får per session en lille smule (med 0.5% pr. level). Det vil sige at det stødt kommer til at tage en lille smule længere tid at stige level.
+Det vil sige at fra level 10 til 11, vil det ca. tage 6.6 sessioner (100/15=6.6), fra level 15 til 16 ca. 8 sessioner, og fra level 19 til 20 ca. 10 sessioner.
 
 ## Tidligere levels:
 
