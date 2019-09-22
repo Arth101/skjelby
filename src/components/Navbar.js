@@ -4,7 +4,6 @@ import dndBeyondLogo from '../img/dnd-beyond--small.png'
 import logo from '../img/logo.png'
 
 var navOpen = () => {
-  console.log('woop')
   document.querySelector('#navbarmenu').classList.toggle('is-active')
 }
 
@@ -25,6 +24,12 @@ const Navbar = () => (
         <div className="navbar-start">
           <Link className="navbar-item" to="/tags/resume/">
             Sessions
+          </Link>
+          <Link className="navbar-item" to="/tags/worldbuilding/">
+            Worldbuilding
+          </Link>
+          <Link className="navbar-item" to="/tags/other-games/">
+            Andre Kampagner
           </Link>
           <Link className="navbar-item" to="/about">
             Level progression
