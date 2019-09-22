@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
 title: Tidsregning
+thumbnail: img/default-thumbnail.jpg
 date: 2019-03-04T13:23:29.631Z
 description: '365 dage, 12 måneder, 1000 år per tidsalder.'
 tags:
-  - info
+  - worldbuilding
 ---
 Et år har 365 dage og 12 måneder som i vores kalender. Året slutter middag kl 12.00, d. 31/12 hvor en solformørkelse finder sted. Efter at solen begynder at kaste sit lys over landet igen, er det nye år officielt startet.
 
