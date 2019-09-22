@@ -5,6 +5,7 @@ thumbnail: img/caliban-thumbnail.jpg
 date: 2019-06-07T21:05:43.212Z
 description: Et one-shot om den store calibanske borgerkrig.
 tags:
+  - other-games
   - one-shot
 ---
 ![Caliban map](/img/caliban-map.jpg)
