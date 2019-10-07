@@ -112,9 +112,11 @@ Ung mand. stort sort skæg, og altid en stor glaive ved sin side.
 
 **Briza Hun'ett, Stormesterinden for Den Sorte Fyrstinde.**
 
+**\[Døde] Brizas 3 Konsorter**. Zeerith Slangekrop, Givan Warlock og Elendar Slyngel. Blev alle tre besejret af heltene da de forsøgte at invaderer Drow-elver byen Lith My'Thara i 997.
+
 **\[Død] Rizzen Hun'ett.** Dræbt af heltene under deres angreb på drow-forposten i 997.
 
-**Angolth DeVir.** Berserker fra DeVir familien. Forsøgte at indgå en alliance med heltene, for at svække Hun'ett familiens magt.
+**\[Død] Angolth DeVir.** Berserker fra DeVir familien. Forsøgte at indgå en alliance med heltene, for at svække Hun'ett familiens magt. Blev slået ihjel og vækket til live som en zombie af konsorten Givan, hvorefter hun blev lavet til mos af Balasar.
 
 **Nalfein DeVir.** Assassin.
 
