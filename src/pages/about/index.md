@@ -9,7 +9,9 @@ title: Level progression
 | **Session 31:** _Opdagelser i Blingdensten, Skyggeportalen & dragens skatte, Kampen ved Drow forpost._          | 15      |
 | **Session 32:** _Kamp mod Drow Assassinere, Tilbagetrækning til Blingdensten._          | 15      |
 | **Session 33:** _Kamp mod Brizas konsorter, Undslap drow-elvere forfølgelse._          | 15      |
-| **Total**                       | **45** |
+| **Session 34:** _Undgik kamp med Belegost dværge, genforenet med Ammars folk, andet angreb på porten._          | 15      |
+| **Session 35:** _Etablerede base i portens grotte, forsvarede elevatorplatformen og stormede ritualet til Graz'zt._          | 15      |
+| **Total**                       | **75** |
 
 - - -
 
