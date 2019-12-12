@@ -25,4 +25,4 @@ Det er nu op til heltene at jagte Nattens herre og sætte en stopper for ham en 
 
 ![nattens herre](/img/nattens-herre.jpg)
 
-_Nattens herre ser på heltene me et smil._
+_Nattens herre ser på heltene med et smil._
