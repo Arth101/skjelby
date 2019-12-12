@@ -22,3 +22,7 @@ Det næste de møder er en stor cirkulær dør, hvor en skrift siger at “Kun e
 De bliver afbrudt af en Eladrin elver der kommer ud af et hemmeligt rum i grotten og fortæller dem at de ikke får lov til at forlade grotten nu hvor de har set Nattens herre i kisten. Kamp bryder ud mellem Eladrin elveren og heltene, men da eladrinen knæler og ser sig slået overtaler gruppen ham til at de kan arbejde sammen, for Nattens herre er ved at bryde løs af sit fængsel. Op af det velsignede vand springer den store mand, og tårnene over alle andre ser han mod Eladrin elveren med en smil, der afslører hans skarpe hugtænder. Nattens herre kaster sig over eladrinen mens heltene kæmper tilbage, og med et dobbelt crit på 205 damage, separerer Nimbus vampyrerens hovede fra han skuldre. En flagermusformet dis samler sig over vampyrens, nu brændende, lig og flyver ud af grotten mod friheden. Eladrin-elveren, tilkendegiver sig selv som Paexis, takker heltene for hjælpen og overlader hans ejendele til dem.
 
 Det er nu op til heltene at jagte Nattens herre og sætte en stopper for ham en gang for alle... Men først må de overvinde drow-elverne.
+
+![nattens herre](/img/nattens-herre.jpg)
+
+_Nattens herre ser på heltene me et smil._
