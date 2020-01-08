@@ -2,6 +2,12 @@
 templateKey: about-page
 title: Level progression
 ---
+### Level 11:
+| Event                           | XP     |
+| ------------------------------- | ------ |
+| **Session 38:** _N/A._          | xxx      |
+| **Total**                       | **xxx** |
+
 ### Level 10:
 
 | Event                           | XP     |
@@ -11,7 +17,9 @@ title: Level progression
 | **Session 33:** _Kamp mod Brizas konsorter, Undslap drow-elvere forfølgelse._          | 15      |
 | **Session 34:** _Undgik kamp med Belegost dværge, genforenet med Ammars folk, andet angreb på porten._          | 15      |
 | **Session 35:** _Etablerede base i portens grotte, forsvarede elevatorplatformen og stormede ritualet til Graz'zt._          | 15      |
-| **Total**                       | **75** |
+| **Session 36:** _Overvandt Hun'ett familiens soldater og fik adgang til deres palads._          | 15      |
+| **Session 37:** _Overlevede kampen mod Stormesterinden af Hun'ett familien, stjal drow skatte og slap væk fra Lith My'Tarah._          | 15      |
+| **Total**                       | **100** |
 
 - - -
 
