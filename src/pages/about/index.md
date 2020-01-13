@@ -2,13 +2,13 @@
 templateKey: about-page
 title: Level progression
 ---
-### Level 11:
+### Level 11 til 12:
 | Event                           | XP     |
 | ------------------------------- | ------ |
-| **Session 38:** _N/A._          | xxx      |
-| **Total**                       | **xxx** |
+| **Session 38:** _Undslap til overfladen, forsejlede indgangen til underverden, nedkæmpet gammel owlbear._          | 14.5      |
+| **Total**                       | **14.5** |
 
-### Level 10:
+### Level 10 til 11:
 
 | Event                           | XP     |
 | ------------------------------- | ------ |
