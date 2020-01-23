@@ -120,6 +120,8 @@ Ung mand. stort sort skæg, og altid en stor glaive ved sin side.
 
 **Nalfein DeVir.** Assassin.
 
+**Valzana II**. Sort-elver-tiefling barn som heltene kidnappede fra Hun'ett paladset og bragte med sig til overfladen. Opkaldt efter heltenes faldne kammerat.
+
 ## Gobulus Khanatet (Hobgoblins):
 
 **Gobulus Khan, Hobgoblin Khan af Gobulus Khanatet**.
