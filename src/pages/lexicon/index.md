@@ -10,7 +10,7 @@ title: Leksikon
 
 **Borin Runesøger**, gammel dværg med lav AC men mange cantrips.
 
-**Kaptajn Nimbus**, måneelver slyngel, og ikke den helt Skjelby havde brug for, men den de fortjente.
+**\[Forsvundet] Kaptajn Nimbus**, måneelver slyngel, og ikke den helt Skjelby havde brug for, men den de fortjente. Efter at have overtaget en troldmands bog, begyndte han langsomt at gå fra besindelsen. Efter kampagnen i Underverden med Ammar myrdede han 18 uskyldige mennesker og flygtede fra gruppen under en duel med Balasar.
 
 **Glamo Bænkesnitter**, en stille Skovelver med voldlige tendenser og et godt sigte.
 
@@ -48,8 +48,8 @@ Arjhans kone.
 **Hirrathak Ildrix, Højestepræst af Bahamut**.
 Dragonborn mand, Gyldne skæl. I 997 så heltene ham brænde en forbryder til døde i Buzra.
 
-**Marduk Al-Afrin, Emir af Afrin**.
-Ung mand, start 20'erne. Blev domineret af drow-elverne under drow angrebet på Afrin i 997.
+**\[Død] Marduk Al-Afrin, Emir af Afrin**.
+Ung mand, start 20'erne. Blev domineret af drow-elverne under drow angrebet på Afrin i 997. Efterladt i Underverden.
 
 **Melissa Al-Afrin, tidligere Emirkah af Afrin**.
 Moder til Emir Marduk af Afrin (997).
@@ -69,8 +69,8 @@ Ung mand, skjald. Han var blevet fanget af den blå drage Surragos, og tvunget t
 
 **Severin Stålhjerte, Amid (brigade general) i Sølv legionen**.
 
-**Ismael Al-Wessari, Kaptajn i Bronze legionen**.
-Ung mand. Skallet i år 999, men længere mørkt hår i 997. Har et langt cerimonielt ar ned over ansigtet formet som et 'S'. Tidligere gladiator i Wessa, men fungerede som livvagt for Shahana Aaliyah i 997.
+**\[Død] Ismael Al-Wessari, Kaptajn i Bronze legionen**.
+Ung mand. Skallet i år 999, men længere mørkt hår i 997. Har et langt cerimonielt ar ned over ansigtet formet som et 'S'. Tidligere gladiator i Wessa, men fungerede som livvagt for Shahana Aaliyah i 997. Efterladt i Underverden.
 
 **Ammar Al-Afrin, Emir af Afrin og Amid af Jern legionens 2. regiment**.
 Mand, start 30'erne. Solbrændt brun hud, skulderlagt mørkt bølget hår, brune øjne. Adræt af bygning og livslang kavalarist. Blev forfremmet til Amid efter sin heroiske indsats mod den sorte drage Thauglor i 996. Ansvarlig for forsvaret af Østfronten, og rekrutterin, træning og vedligehold af den Jern legionens 2. regiment. Han voksede op i Ain'Issa.
@@ -84,14 +84,14 @@ Tiefling, slut 20'erne. Blå hud og lyst hår. Vokset op i et tempel i byen Ain-
 Tiefling, 15 år (i 997). Mørkegrå hud og mørk bølget hår.
 Datter af Rukshana. Hun blev slået ihjel under drow-angrebet på Afrin i 997.
 
-**Tahan Baz Wasseem**.
-Ældre mand, mørkt kort hår med begyndende måne. I 999 var han i Skjelby med en gruppe lejesoldater for at assisterer Klaas med at overtage magten i byen. Han benyttede sig af mørk magi fra en magisk bog, som Nimbus senere overtog. Tahan blev slået ihjel af heltene og Klaas i Herremandens palæ. I 997 var han vismand og rådgiver i Afrin, og var med Ammar til Buzra og tilbage.
+**\[Død] Tahan Baz Wasseem**.
+Ældre mand, mørkt kort hår med begyndende måne. I 999 var han i Skjelby med en gruppe lejesoldater for at assisterer Klaas med at overtage magten i byen. Han benyttede sig af mørk magi fra en magisk bog, som Nimbus senere overtog. Tahan blev slået ihjel af heltene og Klaas i Herremandens palæ. I 997 var han vismand og rådgiver i Afrin, og var med Ammar til Buzra og tilbage. Efterladt i Underverden.
 
-**Maleek, veteran**.
-Ung mand, stor og muskuløs. Mørkt hår i en hestehale. Kæmper med en økse og et skjold med pigge.
+**\[Død] Maleek, veteran**.
+Ung mand, stor og muskuløs. Mørkt hår i en hestehale. Kæmper med en økse og et skjold med pigge. Efterladt i Underverden.
 
-**Hamza, veteran**.
-Ung halv-elver mand, Muskuløs. Skallet og brændsår over hele hovedet. Fik sprøjtet syrer ud over sig under kampen mod den sorte drage Thauglor.
+**\[Død] Hamza, veteran**.
+Ung halv-elver mand, Muskuløs. Skallet og brændsår over hele hovedet. Fik sprøjtet syrer ud over sig under kampen mod den sorte drage Thauglor. Efterladt i Underverden.
 
 **Hassan, veteran**.
 Ung mand. stort sort skæg, og altid en stor glaive ved sin side.
