@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Session 35.5: Stor-ravnens gravsted'
 thumbnail: img/xorn-thumbnail.jpg
-date: 2019-12-12T14:30:07.849Z
+date: 2019-11-20T14:30:07.849Z
 description: 'Balasar, Elida og Nimbus tager på en skattejagt med Xornen Zakka.'
 tags:
   - resume
