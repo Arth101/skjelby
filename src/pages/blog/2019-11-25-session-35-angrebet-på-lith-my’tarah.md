@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Session 35: Angrebet på Lith My’Tarah'
 thumbnail: img/drow-mage-thumbnail.jpg
-date: 2019-11-25T11:20:50.103Z
+date: 2019-11-09T11:20:50.103Z
 description: 'Heltene samler kræfter, nedstiger i drow-byen og abryder et demonisk ritual.'
 tags:
   - resume
