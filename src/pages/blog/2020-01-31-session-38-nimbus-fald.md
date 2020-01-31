@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Session 38: Nimbus fald'
 thumbnail: img/drow-thumbnail.jpg
-date: 2020-01-31T14:46:47.921Z
+date: 2020-01-12T14:46:47.921Z
 description: >-
   Heltene rejser gennem underverdens grotter, ankommer til overfladen og Nimbus
   midster sin forstand.
