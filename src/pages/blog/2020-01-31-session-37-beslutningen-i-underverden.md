@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 37: Beslutningen i Underverden'
-thumbnail: img/drow-thumbnail.jpg
+thumbnail: img/drow-matron-thumbnail.jpg
 date: 2019-12-28T14:42:38.346Z
 description: >-
   Heltene kæmper mod Stormesterinden, bortfører et barn og beslutter sig for at
@@ -10,8 +10,6 @@ tags:
   - resume
 ---
 **Intromelodi: Sweet but Psycho af Ava Max.**
-
-****
 
 ## Fuldt resume:
 
