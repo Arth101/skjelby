@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 39: Konfrontation med Ammar'
-thumbnail: img/drow-thumbnail.jpg
+thumbnail: img/hassari-thumbnail.jpg
 date: 2020-01-25T14:50:22.362Z
 description: >-
   Heltene, minus Nimbus, gør sig klar til at forlade Afrin og en konfrontation
@@ -10,8 +10,6 @@ tags:
   - resume
 ---
 **Intromelodi: "RAIN" af SID**
-
-
 
 ## Fuldt resume:
 
