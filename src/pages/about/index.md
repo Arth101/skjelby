@@ -6,7 +6,8 @@ title: Level progression
 | Event                           | XP     |
 | ------------------------------- | ------ |
 | **Session 38:** _Undslap til overfladen, forsejlede indgangen til underverden, nedkæmpet gammel owlbear._          | 14.5      |
-| **Total**                       | **14.5** |
+| **Session 39:** _Klargøring til at finde Nimbus, konfrontation med Ammar og hans veteraner._          | 14.5      |
+| **Total**                       | **29** |
 
 ### Level 10 til 11:
 
