@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 38: Nimbus fald'
-thumbnail: img/drow-thumbnail.jpg
+thumbnail: img/nimbus-thumbnail.jpg
 date: 2020-01-12T14:46:47.921Z
 description: >-
   Heltene rejser gennem underverdens grotter, ankommer til overfladen og Nimbus
@@ -10,8 +10,6 @@ tags:
   - resume
 ---
 **Intromelodi: "Tabuisme" af Suspekt**
-
-
 
 ## Fuldt resume:
 
