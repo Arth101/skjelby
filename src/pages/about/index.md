@@ -7,7 +7,9 @@ title: Level progression
 | ------------------------------- | ------ |
 | **Session 38:** _Undslap til overfladen, forsejlede indgangen til underverden, nedkæmpet gammel owlbear._          | 14.5      |
 | **Session 39:** _Klargøring til at finde Nimbus, konfrontation med Ammar og hans veteraner._          | 14.5      |
-| **Total**                       | **29** |
+| **Session 40:** _Forlod Afrin, kæmpede mod Hobgobliner udenfor Fort Temara og klargjorde angreb på Hobgoblin belejring._          | 14.5      |
+| **Session 41:** _Overvandt en gruppe hobgobliner, begyndte rejsen ind i Gobulus Kharnatet og modtog en vigtig opgave fra Coualt Eku._          | 14.5      |
+| **Total**                       | **58** |
 
 ### Level 10 til 11:
 
