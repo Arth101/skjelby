@@ -9,7 +9,9 @@ title: Level progression
 | **Session 39:** _Klargøring til at finde Nimbus, konfrontation med Ammar og hans veteraner._          | 14.5      |
 | **Session 40:** _Forlod Afrin, kæmpede mod Hobgobliner udenfor Fort Temara og klargjorde angreb på Hobgoblin belejring._          | 14.5      |
 | **Session 41:** _Overvandt en gruppe hobgobliner, begyndte rejsen ind i Gobulus Kharnatet og modtog en vigtig opgave fra Coualt Eku._          | 14.5      |
-| **Total**                       | **58** |
+| **Session 42:** _Møde med menneskestamme og Gnoller i Khanatet og kamp mod en sandorm._          | 14.5      |
+| **Session 43:** _Rejste gennem sandbakkerne, kæmpede mod adskillige sandorme og en blå drage._          | 14.5      |
+| **Total**                       | **87** |
 
 ### Level 10 til 11:
 
