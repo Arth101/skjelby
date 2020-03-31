@@ -2,6 +2,12 @@
 templateKey: about-page
 title: Level progression
 ---
+### Level 12 til 13:
+| Event                           | XP     |
+| ------------------------------- | ------ |
+| **Session 46:** _Undslipper mumiens gravkammer med hjertet og teleporterer sig til Bredals store bibliotek._          | 14      |
+| **Total**  | **14** |
+
 ### Level 11 til 12:
 | Event                           | XP     |
 | ------------------------------- | ------ |
@@ -11,7 +17,9 @@ title: Level progression
 | **Session 41:** _Overvandt en gruppe hobgobliner, begyndte rejsen ind i Gobulus Kharnatet og modtog en vigtig opgave fra Coualt Eku._          | 14.5      |
 | **Session 42:** _Møde med menneskestamme og Gnoller i Khanatet og kamp mod en sandorm._          | 14.5      |
 | **Session 43:** _Rejste gennem sandbakkerne, kæmpede mod adskillige sandorme og en blå drage._          | 14.5      |
-| **Total**                       | **87** |
+| **Session 44:** _Mødte Sha-Ri-Loh oraklet og frøfolket. Rejste med oraklet til Iquekias jungle hvor de overvandt en ond mumie konge._          | 14.5      |
+| **Session 45:** _Heltene finder en vej ned i gravkammerets små tunneler, passerer adskillige fælder og finder mumiens hjerte._          | 14.5      |
+| **Total**                       | **100** |
 
 ### Level 10 til 11:
 
