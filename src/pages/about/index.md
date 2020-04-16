@@ -6,7 +6,10 @@ title: Level progression
 | Event                           | XP     |
 | ------------------------------- | ------ |
 | **Session 46:** _Undslipper mumiens gravkammer med hjertet og teleporterer sig til Bredals store bibliotek._          | 14      |
-| **Total**  | **14** |
+| **Session 47:** _Balasar bliver reinkarneret, heltene bryder mumiens forbannelse, starter frø-exodus og narre 3 titaner._          | 14      |
+| **Session 48:** _Kæmpede/flygtede fra titaner, krydsede Saburrafloden og fik Frøfolket tilbage til Quekia_          | 12      |
+| **Session 49:** _Kæmpede mod Ebyssian og fik Akantor-øglen tilbage til sin hule_          | 14      |
+| **Total**  | **54** |
 
 ### Level 11 til 12:
 | Event                           | XP     |
