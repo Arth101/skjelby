@@ -28,7 +28,7 @@ export default class IndexPage extends React.Component {
               <h1>Seneste eventyr</h1>
             </div>
             {posts
-              .slice(0, 10)
+              .slice(0, 20)
               .map(({ node: post }) => (
                 <div class="card" key={post.id} style={{marginBottom: 20}}>
                   <header className="card-header">
