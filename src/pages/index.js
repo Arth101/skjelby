@@ -54,6 +54,9 @@ export default class IndexPage extends React.Component {
                   </div>
                 </div>
               ))}
+            <div className="content">
+              <Link to={"/tags/resume/"}>Se alle resume</Link>
+            </div>
           </div>
         </section>
       </Layout>
