@@ -16,7 +16,7 @@ class TagRoute extends React.Component {
       
       <div class="card" style={{marginBottom: 20}}>
                   <header className="card-header">
-                    <Link to={post.fields.slug}>
+                    <Link to={post.node.fields.slug}>
                       <p className="card-header-title is-size-5 has-text-weight-semibold">
                         {post.node.frontmatter.title}
                       </p>
