@@ -10,13 +10,15 @@ title: Leksikon
 
 **Borin Runesøger**, gammel dværg med lav AC men mange cantrips.
 
-**\[Forsvundet] Kaptajn Nimbus**, måneelver slyngel, og ikke den helt Skjelby havde brug for, men den de fortjente. Efter at have overtaget en troldmands bog, begyndte han langsomt at gå fra besindelsen. Efter kampagnen i Underverden med Ammar myrdede han 18 uskyldige mennesker og flygtede fra gruppen under en duel med Balasar.
-
 **Glamo Bænkesnitter**, en stille Skovelver med voldlige tendenser og et godt sigte.
 
 **Elida**, halfling backup-skjald med lange fingre.
 
-**\[Død] Valzana**, gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben. Faldt i kamp under drow angrebet på Afrin i 997. Hvil i fred du hemmelighedsfulde fløjtespiller.
+**Bama**, gnom/kæmpedovendyr druide også kendt som oraklet af nogle.
+
+**\[KIA] Valzana**, gruppens yndlings skygge-skjald med en harpe som sit fortrukkende våben. Faldt i kamp under drow angrebet på Afrin i 997. Hvil i fred du hemmelighedsfulde fløjtespiller.
+
+**\[MIA] Kaptajn Nimbus**, måneelver slyngel, og ikke den helt Skjelby havde brug for, men den de fortjente. Efter at have overtaget en troldmands bog, begyndte han langsomt at gå fra besindelsen. Efter kampagnen i Underverden med Ammar myrdede han 18 uskyldige mennesker og flygtede fra gruppen under en duel med Balasar.
 
 # Persongalleri:
 
