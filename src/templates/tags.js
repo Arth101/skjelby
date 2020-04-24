@@ -19,7 +19,7 @@ class TagRoute extends React.Component {
                     <div className="media">
                       <div className="media-left">
                         <figure className="image is-64x64">
-                        <img className="is-rounded" src={post.node.frontmatter.thumbnail || '/img/default-thumbnail.jpg'} alt={post.node.frontmatter.title} />
+                        <img className="is-rounded" src={"/" + post.node.frontmatter.thumbnail || '/img/default-thumbnail.jpg'} alt={post.node.frontmatter.title} />
                         </figure>
                       </div>
                       <div className="content">
