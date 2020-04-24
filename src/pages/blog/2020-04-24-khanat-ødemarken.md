@@ -27,7 +27,7 @@ Couatl Eku lærer her de villige af ødemarkens beboere om Bahamut og træner de
 ### _Den nordlige ødemark_
 Hjemsted for menneske- og Gnollstammer. Disse vilde folk lever ret isoleret og er ikke særlig glade for Khanatet, eller nogen andre for den sags skyld.
 
-### _Sand(orme)bakkerne_
+### _Sandbakkerne_
 Kæmpe sandorme hærger denne meget øde og forladte del af ødemarken. Sandbakker kan ses så langt øjet rækker.
 
 ### _Gipsminen ved oasen_
