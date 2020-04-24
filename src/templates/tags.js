@@ -7,14 +7,7 @@ class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map(post => (
-      <div key={post.node.fields.slug}>
-      <li >
-        <Link to={post.node.fields.slug}>
-          <h2 className="has-text-primary is-size-5">{post.node.frontmatter.title}</h2>
-        </Link>
-      </li>
-      
-      <div class="card" style={{marginBottom: 20}}>
+      <div class="card" style={{marginBottom: 20}} key={post.node.fields.slug}>
                   <header className="card-header">
                     <Link to={post.node.fields.slug}>
                       <p className="card-header-title is-size-5 has-text-weight-semibold">
@@ -37,8 +30,6 @@ class TagRoute extends React.Component {
                     </div>
                   </div>
                 </div>
-      
-      </div>
     ))
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
@@ -91,7 +82,8 @@ export const tagPageQuery = graphql`
             slug
           }
           frontmatter {
-            title
+            title,
+            description
           }
         }
       }
