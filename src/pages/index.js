@@ -17,7 +17,7 @@ export default class IndexPage extends React.Component {
                 Dungeons &amp; Dragons
               </p>
               <p className="subtitle">
-                Fra Skjelby til Gobulus Khanatet
+                Fra Skjelby til Quekias jungle
               </p>
             </div>
           </div>
