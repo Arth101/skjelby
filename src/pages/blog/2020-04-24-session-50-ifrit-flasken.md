@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 50: Ifrit flasken'
-thumbnail: img/efreet-flask.jpg
+thumbnail: img/efreeti-flask-thumbnail.jpg
 date: 2020-04-24T11:38:46.991Z
 description: >-
   En vulkan-grotte udfoskes, heltene befrier salamanderen Sol-Sahar og finder en
