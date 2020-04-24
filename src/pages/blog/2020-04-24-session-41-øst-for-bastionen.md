@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 41: Øst for Bastionen'
-thumbnail: img/
+thumbnail: img/hobgoblin-thumbnail.jpg
 date: 2020-04-24T10:59:10.006Z
 description: >-
   Heltene forsøger at overvinde Khanatets bejering af Fort Temara, finder en
