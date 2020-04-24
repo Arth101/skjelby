@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 45: Gravkammerets mysterier'
-thumbnail: img/scroll.jpg
+thumbnail: img/default-thumbnail.jpg
 date: 2020-04-24T11:15:06.784Z
 description: >-
   Kong Har-Bais gravkammer undersøges og mange fælder senere finder heltene
