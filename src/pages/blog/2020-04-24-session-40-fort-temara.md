@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 40: Fort Temara'
-thumbnail: /img/hobgoblin-thumbnail.jpg
+thumbnail: img/hobgoblin-thumbnail.jpg
 date: 2020-04-24T10:54:30.195Z
 description: >-
   Heltene forlader Afrin og kæmper mod Gobulus Khanatets styrker udenfor Fort
