@@ -7,11 +7,38 @@ class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
     const postLinks = posts.map(post => (
-      <li key={post.node.fields.slug}>
+      <div key={post.node.fields.slug}>
+      <li >
         <Link to={post.node.fields.slug}>
           <h2 className="has-text-primary is-size-5">{post.node.frontmatter.title}</h2>
         </Link>
       </li>
+      
+      <div class="card" style={{marginBottom: 20}}>
+                  <header className="card-header">
+                    <Link to={post.fields.slug}>
+                      <p className="card-header-title is-size-5 has-text-weight-semibold">
+                        {post.node.frontmatter.title}
+                      </p>
+                    </Link>
+                  </header>
+                  <div className="card-content">
+                    <div className="media">
+                      <div className="media-left">
+                        <figure className="image is-64x64">
+                        <img className="is-rounded" src={post.node.frontmatter.thumbnail || '/img/default-thumbnail.jpg'} alt={post.node.frontmatter.title} />
+                        </figure>
+                      </div>
+                      <div className="content">
+                        {post.node.frontmatter.description}
+                        <br />
+                        <Link to={post.node.fields.slug}>Læs mere</Link>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+      
+      </div>
     ))
     const tag = this.props.pageContext.tag
     const title = this.props.data.site.siteMetadata.title
