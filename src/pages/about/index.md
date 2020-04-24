@@ -9,7 +9,8 @@ title: Level progression
 | **Session 47:** _Balasar bliver reinkarneret, heltene bryder mumiens forbannelse, starter frø-exodus og narre 3 titaner._          | 14      |
 | **Session 48:** _Kæmpede/flygtede fra titaner, krydsede Saburrafloden og fik Frøfolket tilbage til Quekia_          | 12      |
 | **Session 49:** _Kæmpede mod Ebyssian og fik Akantor-øglen tilbage til sin hule_          | 14      |
-| **Total**  | **54** |
+| **Session 50:** _Udforskede Salamander-grotte, befriede Sol-Sahar og fandt en Efrit-flaske._          | 12      |
+| **Total**  | **66** |
 
 ### Level 11 til 12:
 | Event                           | XP     |
