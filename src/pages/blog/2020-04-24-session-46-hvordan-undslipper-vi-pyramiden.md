@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 46: Hvordan undslipper vi pyramiden?'
-thumbnail: img/default-thumbnail.jpg
+thumbnail: img/mummy-thumbnail.jpg
 date: 2020-04-24T11:18:24.212Z
 description: >-
   Heltene undslipper fra pyramiden via Elidas teleportations cirkel og ankommer
