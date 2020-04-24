@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 48: Frøfolket når til Quekia'
-thumbnail: img/default-thumbnail.jpg
+thumbnail: img/frogfolk-thumbnail.jpg
 date: 2020-04-24T11:30:13.591Z
 description: >-
   Balasar bliver bedømt i det hinsides, Todrek løber nogle titaner ned,
