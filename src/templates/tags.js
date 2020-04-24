@@ -83,7 +83,8 @@ export const tagPageQuery = graphql`
           }
           frontmatter {
             title,
-            description
+            description,
+            thumbnail
           }
         }
       }
