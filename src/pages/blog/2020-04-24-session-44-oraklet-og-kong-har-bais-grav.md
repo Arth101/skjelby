@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 44: Oraklet og Kong Har-Bais grav'
-thumbnail: img/mummy-thumbnail.com
+thumbnail: img/mummy-thumbnail.jpg
 date: 2020-04-24T11:10:52.395Z
 description: >-
   Heltene møder frøfolket og oraklet Bama i ørkenen, rejser til junglen og
