@@ -11,11 +11,15 @@ tags:
 ## Beskrivelse
 Gobulus Khan og hans hobgoblin legioner regerer mod vest, mens titanerne afskærer den østlige ørken for alt civilisation.
 
+---
+
 ## Temperatur:
 - Vinter: ~20 grader (5 grader om natten).
 - Forår: ~30 grader (15 om natten).
 - Sommer: ~40 grader (20 om natten).
 - Efterår:  ~30 grader ( 15 om natten).
+
+---
 
 ## Steder
 ### _Khanatets hjerte_
@@ -45,7 +49,9 @@ Den østlige del af ørkenen er befolket af titaner. Området er meget farligt.
 ### _På kanten af Quekia_
 Disse bredde sandsletter er det sidste område inden den frodige vulkanjord begynder at give liv til Quekias jungler. I horisonten kan man se det sorte fjeld og de grønne skove. Saburrafloden fra bjergene blokerer dog vejen.
 
+---
 ## Personer og grupperinger
+
 ### _Gobulus Kahanet_
 En gruppe af Hobgobliner samlet under deres leder Gobulus Khan. De er i åben krig med Shahdømmet.
 
