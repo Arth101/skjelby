@@ -10,7 +10,8 @@ title: Level progression
 | **Session 48:** _Kæmpede/flygtede fra titaner, krydsede Saburrafloden og fik Frøfolket tilbage til Quekia_          | 12      |
 | **Session 49:** _Kæmpede mod Ebyssian og fik Akantor-øglen tilbage til sin hule_          | 14      |
 | **Session 50:** _Udforskede Salamander-grotte, befriede Sol-Sahar og fandt en Efrit-flaske._          | 12      |
-| **Total**  | **66** |
+| **Session 51:** _Snød Ebyssians soldater, passerede Riften og rekrutterede ork-bande._          | 12      |
+| **Total**  | **78** |
 
 ### Level 11 til 12:
 | Event                           | XP     |
