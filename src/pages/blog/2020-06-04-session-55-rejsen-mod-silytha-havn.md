@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 55: Rejsen mod Silytha Havn'
-thumbnail: img/vampyr.jpg
+thumbnail: img/vampyr-thumbnail.jpg
 date: 2020-06-04T11:47:49.816Z
 description: >-
   Heltene rejser øst mod Silytha Havn og kæmper et slag mod de udøde om en
