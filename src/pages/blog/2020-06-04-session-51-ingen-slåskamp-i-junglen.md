@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 51: Ingen slåskamp i junglen!'
-thumbnail: img/orc.jpg
+thumbnail: img/orc-thumbnail.jpg
 date: 2020-06-04T11:24:04.595Z
 description: >-
   Heltene rejser mod Chepaga, møder nogle af Ebyssians håndlangere og betaler
