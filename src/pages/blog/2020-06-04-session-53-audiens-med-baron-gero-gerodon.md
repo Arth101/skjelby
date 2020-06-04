@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Session 53: Audiens med Baron Gero Gerodon'
-thumbnail: img/frog.jpg
+thumbnail: img/frog-thumbnail.jpg
 date: 2020-06-04T11:35:36.944Z
 description: >-
   Heltene møder Baron Gerodon, den Ktonianske ridder og Salamadernes leder,
